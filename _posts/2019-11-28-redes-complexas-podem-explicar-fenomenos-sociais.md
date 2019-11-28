@@ -5,9 +5,9 @@ categories: [tecnologia,sociedade]
 ---
 
 Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et 
-al) fazem um mapeamento da Internet e de outros sistemas de rede do mundo.[^1] Neste trabalho eles buscavam encontrar uma métrica para estimar o "tamanho" da web e fizeram uma grande descoberta: a de que embora a rede tenha (agora) cerca de três dêcadas de idade, qualquer página poderia ser alcançada com um total de 19 cliques, mesmo considerando o seu tamanho crescente. 
+al) fazem um mapeamento da Internet e de outros sistemas de rede do mundo. [^1] Neste trabalho eles buscavam encontrar uma métrica para estimar o "tamanho" da web e fizeram uma grande descoberta: a de que embora a rede tenha (agora) cerca de três dêcadas de idade, qualquer página poderia ser alcançada com um total de 19 cliques, mesmo considerando o seu tamanho crescente. 
 
-Eles concluíram que seus nós[^2] possuem graus de conectividade baseadas em uma lei de potência, em que a maioria dos nós tem baixa conectividade ao passo que uma minoria tem alta conectividade.[^3] Em sistemas desse tipo a distribuição de conectividade dos nós tende a seguir um princípio de “conectividade preferencial” ou *preferential attachment*: quanto maior o número de conexões de um nó, maior a probabilidade que mais nodos se conectem preferencialmente a ele.
+A Internet pode ser pensada como um grande conjunto de nós, que são representados pelas páginas, e um conjunto de arcos, que são representados pelos links que ligam uma página às outras. Os autores concluíram que os nós da Internet possuem graus de conectividade baseadas em uma lei de potência, em que a maioria dos nós tem baixa conectividade ao passo que uma minoria tem alta conectividade. [^2] Em sistemas desse tipo a distribuição de conectividade dos nós tende a seguir um princípio de “conectividade preferencial” ou *preferential attachment*: quanto maior o número de conexões de um nó, maior a probabilidade que mais nodos se conectem preferencialmente a ele.
 
 Traduzindo: quanto mais páginas um site possui, maiores as chances de outras páginas estarem ligadas a ele. Isto é, as redes, sejam elas físicas, de relacionamento, biológicas, como o sistema imunológico, ou de computadores, seguem um padrão de comportamento parecido, mas não idêntico. Não há nó dominante, embora a rede não seja aleatória. Poucas conexões (*hubs*) mantém a integridade geral da rede. 
 
@@ -28,6 +28,4 @@ O fenômeno remonta um pouco do “Efeito Mateus” (baseado na passagem bíblic
 
 [^1]: A-L. Barábási, A. Réka & J. Hawoong. “Diameter of the World-Wide Web”. Nature, Vol 401, set., 1999, p. 130-131.
 
-[^2]: A Internet pode ser pensada como um grande conjunto de nós, que seriam as páginas e arcos, que seriam os links que ligam umas páginas às outras.
-
-[^3]: Ver também: A-L. Barabási. “Luck or reason” Nature, vol 489 p.507, 2012.
+[^2]: Ver também: A-L. Barabási. “Luck or reason” Nature, vol 489 p.507, 2012.
