@@ -5,7 +5,8 @@ categories: Geral
 ---
 
 Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et 
-al)[^1]: A-L. Barábási, A. Réka & J. Hawoong. “Diameter of the World-Wide Web”. Nature, Vol 401, set., 1999, p. 130-131. Ver também: A-L. Barabási. “Luck or reason” Nature, vol 489 p.507, 2012.
+al)
+[^1]: A-L. Barábási, A. Réka & J. Hawoong. “Diameter of the World-Wide Web”. Nature, Vol 401, set., 1999, p. 130-131. Ver também: A-L. Barabási. “Luck or reason” Nature, vol 489 p.507, 2012.
 
 fazem um mapeamento da Internet e de outros sistemas de rede do mundo. Eles concluem que seus nodos possuem graus de conectividade baseadas em uma lei de potência, em que a maioria dos nós tem baixa conectividade ao passo que uma minoria tem alta conectividade. Em sistemas desse tipo a distribuição de conectividade dos nós tende a seguir um princípio de “conectividade preferencial” ou *preferential attachment*: quanto maior o número de conexões de um nó, maior a probabilidade que mais nodos se conectem preferencialmente a ele.
 
