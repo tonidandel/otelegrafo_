@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redes complexas podem explicar os fenômenos sociais "virais" do século XXI?
+title: Redes complexas podem explicar um "viral" do século XXI?
 categories: [tecnologia,sociedade]
 ---
 
