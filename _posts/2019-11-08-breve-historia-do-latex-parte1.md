@@ -1,10 +1,14 @@
 ---
 layout: post
-title: O que é LaTeX? (parte 1)
-categories: [tecnologia,LaTeX]
+title: LaTeX - como escrever um texto com qualidade tipográfica profissional?
+categories: [LaTeX,Diagramação,Programação]
 ---
 
-O $\LaTeX$ (que se pronuncia *[''la:tec]* ou *['lei:tec]*) vem da junção no mome *Lamport* e do grego $\tau\, \epsilon\, \chi\, \nu\,\eta\,$ *[''tec:ni]* e que, etimologicamente, está nas origens do termo *técnica*. É, a grosso modo, uma Linguagem de Programação para marcação de texto, ou, mais à rigor, um *Interpretador*, que trabalha em cima de um arquivo de texto puro, fazendo algo bem próximo ao que um professor ou professora de línguas faria ao corrigir um texto: uma análise léxica, semântica e sintática, linha por linha , como:
+E se eu dissesse que existe uma maneira de escrever um texto com qualidade profissional, seja um artigo de revista, um livro ou até um folheto sem ter aquela marca peculiar dos processadores de texto como o MS word, em que uma figura indomável fica pulando de lá pra cá ou sem perder aquelas preciosas horas escolhendo fontes e estilos? E mais, sem ter que contratar um diagramador profissional e sem gastar nada com isso? Apresento o $\LaTeX$.
+
+O $\LaTeX é um Software Livre desenvolvido para a preparação de documentos com alta qualidade tipográfica. Pensado inicialmente como auxiliar na escrita de fórmulas matemáticas e textos científicos, o LaTeX é hoje amplamente utilizado nas mais diversas áreas, desde a editoração de periódicos acadêmicos, livros e até mesmo teses de doutorado. Sua principal característica frente aos editores de texto tradicionais é a capacidade de alterar completamente a formatação de um texto com simples marcações ou comandos. Com ele haverá menor necessidade de se preocupar com paginação, tamanhos e estilos de fontes ou referências bibliográficas, permitindo ao escritor(a) dedicar mais tempo ao que mais importa: o conteúdo do trabalho em si. Buscarei então fornecer alguns elementos básicos dessa ferramenta extraordinária.
+
+Comecemos pelo nome: $\LaTeX$, que se pronuncia *[''la:tec]* ou *['lei:tec]*, vem da junção no mome *Lamport* e do grego $\tau\, \epsilon\, \chi\, \nu\,\eta\,$ *[''tec:ni]*, que etimologicamente está nas origens do termo *técnica*. É, a grosso modo, uma Linguagem de Programação para marcação de texto, ou, mais à rigor, um *Interpretador*, que trabalha em cima de um arquivo de texto puro, fazendo algo bem próximo ao que um professor ou professora de línguas faria ao corrigir um texto: uma análise léxica, semântica e sintática, linha por linha , como:
 
     Início
        1. Colocar um titulo aqui.
@@ -13,7 +17,7 @@ O $\LaTeX$ (que se pronuncia *[''la:tec]* ou *['lei:tec]*) vem da junção no mo
         etc.
     fim
 
-## História do $\TeX$
+### História do $\TeX$
 
 A linguagem $\TeX$ foi uma criação de Donald Knuth, ao longo da recuada década de 1970, quando ainda não havia o computador pessoal, mas apenas grandes *workstations*, que ocupavam salas inteiras. Naquela época, Donald Knuth estava no processo de escrita e revisão de alguns livros de sua autoria, uma coleção em vários volumes chamada *The Art of Computer Programming*, quando recebeu uma amostra de prova preparada pela editora, que não o agradou em nada pelo resultado. Reza a lenda que, ao receber o manuscrito pelo correio, ele disse **Bleecc!!**, que seria no Português algo como **Eeeca!** 
 
@@ -23,13 +27,13 @@ Antes de tudo ele precisava aprender do que se tratava um bom livro, quais eram 
 
 Um ano após ter iniciado sua pesquisa, Donald Kntuh foi convidado pela *AMS* (American Mathematical Society) para dar uma série de palestras no encontro anual da entidade, que organizava um evento para pessoas que haviam feito algo relevante para o campo da Matemática, mas que não haviam necessariamente trabalhando com matemática. Os convidados poderiam falar do que quisessem em suas palestras, e Knuth decidiu falar sobre a Ciência da Computação à serviço da matemática, apresentando seu novo projeto $\TeX$, para composição de textos e o *Metafont*, que era um projeto paralelo para desenhar fontes com o auxílio do $\TeX$.  Na palestra ele apresentou não apenas as raízes dos conceitos tipográficos, mas também as estruturas matemáticas sobre as quais o programa estava sendo desenvolvido. O $\TeX$ era então mais próximo a um projeto de pesquisa do que um produto de larga escala, mas isso estava para mudar. Mas antes de passarmos aos detalhes técnicos, façamos um panorama sobre as possibilidades do LaTeX
 
-### Belos projetos em $\TeX$ e amigos...
+### Belos projetos...
 
-1. Não se preocupe ainda com instalação de ferramentas. Antes de qualquer coisa,
-   conheça o potencial do LaTeX:
-   
-   - [Belos projetos de diagramação](http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends);
-   - [Exemplos extremos das possibilidades do LaTeX](http://www.tug.org/texshowcase/).
+Não se preocupe ainda com instalação de ferramentas. Antes de qualquer coisa,
+conheça o potencial do LaTeX:
+
+- [Belos projetos de diagramação](http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends);
+- [Exemplos extremos das possibilidades do LaTeX](http://www.tug.org/texshowcase/).
 
 ### Premissas básicas de uma distribuição $\TeX$:
 
@@ -40,8 +44,6 @@ Um ano após ter iniciado sua pesquisa, Donald Kntuh foi convidado pela *AMS* (A
 * Servir aos propósitos de pesquisa acadêmica, sendo por sua natureza, um [Software Livre](https://pt.wikipedia.org/wiki/Software_livre), que não é a mesma coisa que "comida grátis";
 
 * Ser desenvolvido de forma que os arquivos de entrada (textos simples com marcações) pudessem ser compatíveis com qualquer sistema operacional futuro, o que é bem diferente de um sistema [WYSWYG](https://en.wikipedia.org/wiki/WYSIWYG), como os atuais processadores de texto: em um programa dessa natureza, duas partes do mesmo texto podem ser bem diferentes, mesmo que se use os mesmos estilos de formatação e fontes. Por exemplo: um arquivo no MS Office 95 não será lido exatamente da mesma forma no MS Office 2019. Aliás, ainda que na mesma plataforma, eles são serão totalmente incompatíveis. Neste aspecto, um arquivo em $\TeX$ é sempre processado da mesma forma, não importando em qual sistema ele esteja. Um arquivo dos anos 1970 é executado perfeitamente em um computador moderno, apresentando a mesma qualidade;
-  
-  ### O $\LaTeX$
   
   Como o $\TeX$ formava um conjunto relativamente simples de comandos, como pequenos blocos fundamentais, rapidamente começaram a surgir complementos seguindo a [Licença Livre](https://en.wikipedia.org/wiki/LaTeX_Project_Public_License) sobre a qual o primeiro projeto havia sido desenvolvido.  Uma das premissas básicas da licença era que o nome $\TeX$ deveria aparecer em qualquer outra distribuição futura baseada em $\TeX$, ainda que a utilização de qualquer obra baseada nele pudesse ser utilizada papra qualquer fim, mesmo que comercial. Em 1983, Leslie Lamport desenvolveu uma série de macros (que são pequenas rotinas de instruções) utilizando os comandos básicos do $\TeX$, dando início à primeira versão do $\LaTeX$, que atualmente está em sua segunda versão. 
   
