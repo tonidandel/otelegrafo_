@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O que é LaTeX? (parte 2)
+title: Como escrever um texto com qualidade tipográfica profissional? (parte 2)
 categories: [tecnologia,LaTeX]
 ---
 
