@@ -4,8 +4,6 @@ title: Redes complexas podem explicar um "viral" do século XXI?
 categories: [tecnologia,sociedade]
 ---
 
-
-
 Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et 
 al) fazem um mapeamento da Internet e de outros sistemas de rede do mundo. [^1] Neste trabalho eles buscavam encontrar uma métrica para estimar o "tamanho" da web e fizeram uma grande descoberta: a de que embora a rede tenha (agora) cerca de três dêcadas de idade, qualquer página poderia ser alcançada com um total de 19 cliques, mesmo considerando o seu tamanho crescente. 
 
