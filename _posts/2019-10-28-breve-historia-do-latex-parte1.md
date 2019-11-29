@@ -1,6 +1,6 @@
 ---
 nav: true
-title: Uma breve História do LaTeX
+title: O que é LaTeX? (parte 1)
 categories: [tecnologia,LaTeX]
 ---
 
@@ -13,6 +13,8 @@ O $\LaTeX$ (que se pronuncia *[''la:tec]* ou *['lei:tec]*) vem da junção no mo
         etc.
     fim
 
+## História do $\TeX$
+
 A linguagem $\TeX$ foi uma criação de Donald Knuth, ao longo da recuada década de 1970, quando ainda não havia o computador pessoal, mas apenas grandes *workstations*, que ocupavam salas inteiras. Naquela época, Donald Knuth estava no processo de escrita e revisão de alguns livros de sua autoria, uma coleção em vários volumes chamada *The Art of Computer Programming*, quando recebeu uma amostra de prova preparada pela editora, que não o agradou em nada pelo resultado. Reza a lenda que, ao receber o manuscrito pelo correio, ele disse **Bleecc!!**, que seria no Português algo como **Eeeca!** 
 
 Naquela mesma época Knuth havia se deparado com um livro que se tornara popular,  [Artificial Intelligence](https://archive.org/details/artificialintell00wins), de Patrick Winston, que havia sido um dos primeiros livros  produzidos de maneira inteiramente digital, isto é, que utilizava *0's* (zeros) e *1's* (uns) em cada ponto de uma página para formar uma imagem, isto é "tinta=1", "não-tinta"=0. Impressionado, e como também era pesquisador da área de Computação, decidiu fazer algo similar.  
@@ -21,7 +23,7 @@ Antes de tudo ele precisava aprender do que se tratava um bom livro, quais eram 
 
 Um ano após ter iniciado sua pesquisa, Donald Kntuh foi convidado pela *AMS* (American Mathematical Society) para dar uma série de palestras no encontro anual da entidade, que organizava um evento para pessoas que haviam feito algo relevante para o campo da Matemática, mas que não haviam necessariamente trabalhando com matemática. Os convidados poderiam falar do que quisessem em suas palestras, e Knuth decidiu falar sobre a Ciência da Computação à serviço da matemática, apresentando seu novo projeto $\TeX$, para composição de textos e o *Metafont*, que era um projeto paralelo para desenhar fontes com o auxílio do $\TeX$.  Na palestra ele apresentou não apenas as raízes dos conceitos tipográficos, mas também as estruturas matemáticas sobre as quais o programa estava sendo desenvolvido. O $\TeX$ era então mais próximo a um projeto de pesquisa do que um produto de larga escala, mas isso estava para mudar. Mas antes de passarmos aos detalhes técnicos, façamos um panorama sobre as possibilidades do LaTeX
 
-### Belos projetos em $\TeX$ , $\LaTeX$ e amigos...
+### Belos projetos em $\TeX$ e amigos...
 
 1. Não se preocupe ainda com instalação de ferramentas. Antes de qualquer coisa,
    conheça o potencial do LaTeX:
