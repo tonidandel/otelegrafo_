@@ -4,7 +4,7 @@ title: Como escrever um texto com qualidade tipográfica profissional? (parte 2)
 categories: [tecnologia,LaTeX]
 ---
 
-Antes de continuarmos, falemos um pouco da instalação do ambiente de edição e das instalações nos diferentes sistemas. Como não é o foco dessa pequena oficina, vou me atentar somente a links com sugestões de instalação para os sistemas operacionais GNU/Linux, Windows, MacOS, e na Nuvem:
+Antes de continuarmos, falemos um pouco da instalação do ambiente de edição e das instalações nos diferentes sistemas. Como não é o foco aqui, vou me atentar somente a links com sugestões de instalação para os sistemas operacionais GNU/Linux, Windows, MacOS, e na Nuvem:
 
 ## **GNU/Linux**:
 
