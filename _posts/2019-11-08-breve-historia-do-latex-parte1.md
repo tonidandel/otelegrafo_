@@ -1,5 +1,5 @@
 ---
-nav: true
+layout: post
 title: O que é LaTeX? (parte 1)
 categories: [tecnologia,LaTeX]
 ---
