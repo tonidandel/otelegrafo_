@@ -67,7 +67,10 @@ Após a execução em um editor qualquer de texto, que vimos ao longo da oficina
     
     \end{document}
 
-Que deverá gerar algo como expresso na figura: 
-![](images/exemplo1.png)Obviamente que eu ainda não disse como se dão os passos entre o arquivo de texto puro e o resultado. Mas quero, contudo, que você se atente aos elementos presentes nesta imagem e em seu potencial. Veja que com poucos comandos conseguimos um resultado simples, elegante e profissional para o pequeno texto. Em momento algum tivemos que nos preocupar em inserir campos para numeração da equação, tamanho das fontes ou símbolos em algum editor de equações.
+Que deverá gerar algo como expresso na figura:
+
+![](https://otelegrafo.com/images/exemplo1.png "Exemplo1")
+
+Obviamente que eu ainda não disse como se dão os passos entre o arquivo de texto puro e o resultado. Mas quero, contudo, que você se atente aos elementos presentes nesta imagem e em seu potencial. Veja que com poucos comandos conseguimos um resultado simples, elegante e profissional para o pequeno texto. Em momento algum tivemos que nos preocupar em inserir campos para numeração da equação, tamanho das fontes ou símbolos em algum editor de equações.
 
 > Agora é o momento de alguns passos para [instalação](2-instalacao-latex.md) do $\LaTeX$. Como não é o foco dessa oficina, vou me atentar apenas a algumas sugestões de instalação para os sistemas operacionais Linux, Windows, MacOS, e "Nuvem".
