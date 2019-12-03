@@ -20,26 +20,6 @@ de conectividade, o limite seria aquele em que todos os demais nós conectam-se 
 
 Para o caso dos fenômenos de massa, essas redes acabam favorecendo posturas mais condizentes com os anseios e expectativas dos membros daquela rede, em um ambiente em que a comunicação entre as categorias é virtualmente instantânea. Se as pautas mudarem em alguns desses hubs, a propagação segue seu curso de maneira incrivelmente rápida, sem a necessidade de mobilização de entidades ou nós individuais, que neste caso seriam os chamados "líderes" de determinado movimento. De certa forma, fenômeno remonta um pouco do “Efeito Mateus”,  que é baseado na passagem bíblica “Ao que tem, se lhe dará e terá em abundância, e ao que não tem, até o que tem lhe será tirado”, analogia descrita primeiramente por Merton, mas vai muito além disso. Vale saber que os movimentos sociais daqui para frente vão se confundir cada vez mais com a própria dinâmica de uma rede complexa.
 
-  
-
 [^1]: A-L. Barábási, A. Réka & J. Hawoong. “Diameter of the World-Wide Web”. Nature, Vol 401, set., 1999, p. 130-131.
 
 [^2]: Ver também: A-L. Barabási. “Luck or reason” Nature, vol 489 p.507, 2012.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
