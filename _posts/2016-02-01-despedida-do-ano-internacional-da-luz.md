@@ -10,10 +10,7 @@ Gostaria de agradecer à Sociedade Brasileira de Física pela menção de nosso 
 > diversas áreas da história e do ensino da física, sendo o último número 
 > dedicado ao Ano Internacional da Luz, que foi comemorado em 2015. (...)
 
-> A função delta revisitada. Nomeada após o trabalho pioneiro do físico inglês Paul Dirac, em 1927, a função delta é uma ferramenta primordial para a ciência e 
-> engenharia atuais, com aplicações que vão da teoria quântica ao controle
->  de processos industriais. D.A.V. Tonidandel, da Universidade Federal de
->  Ouro Preto, e A.E.A. Araújo, da Universidade Federal de Minas Gerais, 
+> (...) **A função delta revisitada.** Nomeada após o trabalho pioneiro do físico inglês Paul Dirac, em 1927, a função delta é uma ferramenta primordial para a ciência e engenharia atuais, com aplicações que vão da teoria quântica ao controle de processos industriais. D.A.V. Tonidandel, da Universidade Federal de Ouro Preto, e A.E.A. Araújo, da Universidade Federal de Minas Gerais, 
 > descrevem sua criação, explicando por que a delta não é uma função e sim
 >  uma distribuição.
 
