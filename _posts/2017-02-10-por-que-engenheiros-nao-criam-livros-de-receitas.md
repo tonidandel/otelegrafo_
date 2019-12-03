@@ -17,11 +17,9 @@ Algoritmo 1 (bolo de chocolate). Considere os ingredientes:
 
 Procedimento:
 
-- Escolha um reator (reator 1) com capacidade de 2 litros e, integralizando um processo de transferência de calor com coeficiente $100 \, \frac{W}{m^2K}$; 
-
-- Adicione os ingredientes de 1 a 6 mantendo em um segundo reator, dessa vez giratório, a uma frequência de 2 Hz, adicione os até obter uma mistura homogênea;  
-
-- Verta a mistura em um recipiente adequado e leve ao forno, mantendo uma temperatura constante de $473\,K$, durante 30 minutos.  
+    a. Escolha um reator (reator 1) com capacidade de 2 litros e, integralizando um processo de transferência de calor com coeficiente $100 \, \frac{W}{m^2K}$; 
+    b. Adicione os ingredientes de 1 a 6 mantendo em um segundo reator, dessa vez giratório, a uma frequência de 2 Hz, adicione os até obter uma mistura homogênea;
+    c. Verta a mistura em um recipiente adequado e leve ao forno, mantendo uma temperatura constante de $473\,K$, durante 30 minutos.  
 
 O problema básico em questão apresenta-se da seguinte forma: um livro didático (qual livro cujo objetivo não é ser didático, afinal?), sobretudo de engenharia, é um livro de receitas? Naturalmente, todos diremos enfaticamente que não. Temos visto, no entanto, constantemente sendo editados livros desta natureza: conceitos recheados de centenas de fórmulas, cobertos por métodos minuciosamente detalhados, todos “essenciais” para a formação do futuro engenheiro. Por exemplo: se o propósito é explicar ao aluno como ligar uma lâmpada em um circuito de corrente contínua, o que utilizar como abordagem?
 
