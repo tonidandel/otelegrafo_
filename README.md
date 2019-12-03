@@ -1,2 +1,2 @@
-## Blog - O Telégrafo ---...---
-Um espaço para minhas ideias e reflexões.
+## Repositório do site O Telégrafo ---...---
+Reflexões sobre Ciência, Tecnologia e Sociedade.
