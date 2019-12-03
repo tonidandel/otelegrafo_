@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Despedida do ano internacional da luz
 categories: [História da Física, Educação]
 ---
@@ -15,5 +15,3 @@ Gostaria de agradecer à Sociedade Brasileira de Física pela menção de nosso 
 >  uma distribuição.
 
 Para ler o artigo, clique **[aqui](http://ref.scielo.org/gyywhs).**
-
-
