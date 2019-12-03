@@ -9,9 +9,9 @@ Pensando a respeito do modo se produzir livros didáticos e das metodologias de 
 Algoritmo 1 (bolo de chocolate). Considere os ingredientes:  
 
 1. $532,35\,cm^3$ de glúten;
-2. $4,9\,cm^3$de NaHCO3;
+2. $4,9\,cm^3$de $NaHCO_3$;
 3. $236\, cm^3$ de triglicerídeo parcialmente hidrogenado;
-4. $177,45\, cm^3$ de C12 H 22 O 11;
+4. $177,45\, cm^3$ de $C_{12}H_{22}O_{11}$;
 5. $473,2\, cm^3$ de cacau;
 6. $473,2\, cm^3$ de fatias frutas cristalizadas, de volume normalizado para 0,5cm3.
 
