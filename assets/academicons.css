@@ -17,7 +17,8 @@
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
-	font-size:inherit;
+	/*font-size:inherit;*/
+  font-size:40px; /*teste de tamanho de icone*/
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
@@ -307,7 +308,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
