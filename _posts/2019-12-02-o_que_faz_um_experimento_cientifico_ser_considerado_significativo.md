@@ -2,6 +2,7 @@
 layout: post
 title: O que faz um experimento cientifico ser considerado significativo? 
 categories: [Data Science, Filosofia da Ciência]
+coments: true
 ---
 
 Como conceber um experimento estatisticamente significativo? Como a ciência de dados consegue tirar (quase) qualquer conclusão a partir de um conjunto de dados?    
