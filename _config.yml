@@ -26,23 +26,29 @@ footer-links:
   flickr:
   github: tonidandel
   instagram: otelegrafo_
-  linkedin: 
+  linkedin:
   pinterest:
   rss: rss
   twitter:
-  stackoverflow: 
+  stackoverflow:
   youtube: channel/UCqKlUW7ebELab5cC8olp1pQ
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  researchgate: Danny_Tonidandel # includes the RG footer-link
+  #researchgate: Danny_Tonidandel # includes the RG footer-link
 
+  footer:
+    links:
+      - label: "researchgate"
+      - icon: "fab fa-researchgate"
+      - url: "https://www.researchgate.net/profile/Danny_Tonidandel"
+      # {% if site.footer-links.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.footer-links.researchgate }}"><i class="fab fa-researchgate"></i></a>{% endif %}
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
@@ -97,4 +103,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
