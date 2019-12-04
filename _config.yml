@@ -42,12 +42,12 @@ footer-links:
   timezone: America/Sao_Paulo
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: otelegrafo
+  disqus: otelegrafo
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Your website URL
 # Used for Sitemap.xml and your RSS feed
 url: https://otelegrafo.com
 enforce_ssl: otelegrafo.com
