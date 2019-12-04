@@ -35,11 +35,6 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   researchgate: Danny_Tonidandel # includes the RG footer-link
-  #footer:
-  #  links:
-  #    - label: "researchgate"
-  #    - icon: "fab fa-researchgate"
-  #    - url: "https://www.researchgate.net/profile/Danny_Tonidandel"
 
 # Timezone
   timezone: America/Sao_Paulo
