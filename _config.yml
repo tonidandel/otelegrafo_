@@ -20,12 +20,14 @@ avatar: /images/fig10.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  researchgate: Danny_Tonidandel # includes the RG footer-link
   dribbble:
   email: danny@otelegrafo.com
   facebook:
   flickr:
   github: tonidandel
   instagram: otelegrafo_
+  orcid: 0000-0003-3845-6479
   linkedin:
   pinterest:
   rss: rss
@@ -34,7 +36,6 @@ footer-links:
   youtube: channel/UCqKlUW7ebELab5cC8olp1pQ
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  researchgate: Danny_Tonidandel # includes the RG footer-link
   lattes: 7661349034478084
 
 # Timezone
