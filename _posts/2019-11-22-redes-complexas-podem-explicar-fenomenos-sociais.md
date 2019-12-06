@@ -5,6 +5,10 @@ categories: [Ciência de Redes,sociedade]
 coments: true
 ---
 
+O que é um fenômeno viral?
+
+![](https://otelegrafo.com/images/viral.png)
+
 Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et 
 al) fazem um [mapeamento da Internet]([http://barabasi.com/f/65.pdf](http://barabasi.com/f/65.pdf))([^1]) e de outros sistemas de rede do mundo. Neste trabalho eles buscavam encontrar uma métrica para estimar o "tamanho" da web e fizeram uma grande descoberta: a de que embora a rede tenha (agora) cerca de três dêcadas de idade, qualquer página poderia ser alcançada com um total de 19 cliques, mesmo considerando o seu tamanho crescente. 
 
