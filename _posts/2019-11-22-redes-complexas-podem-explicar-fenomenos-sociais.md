@@ -5,12 +5,12 @@ categories: [Ciência de Redes,sociedade]
 coments: true
 ---
 
-O que é um fenômeno viral?
+Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et 
+al) fazem um [mapeamento da Internet](%5Bhttp://barabasi.com/f/65.pdf%5D(http://barabasi.com/f/65.pdf))([^1]) e de outros sistemas de rede do mundo. Neste trabalho eles buscavam encontrar uma métrica para estimar o "tamanho" da web e fizeram uma grande descoberta: a de que embora a rede tenha (agora) cerca de três dêcadas de idade, qualquer página poderia ser alcançada com um total de 19 cliques, mesmo considerando o seu tamanho crescente.
 
 ![](https://otelegrafo.com/images/viral.png)
 
-Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et 
-al) fazem um [mapeamento da Internet]([http://barabasi.com/f/65.pdf](http://barabasi.com/f/65.pdf))([^1]) e de outros sistemas de rede do mundo. Neste trabalho eles buscavam encontrar uma métrica para estimar o "tamanho" da web e fizeram uma grande descoberta: a de que embora a rede tenha (agora) cerca de três dêcadas de idade, qualquer página poderia ser alcançada com um total de 19 cliques, mesmo considerando o seu tamanho crescente. 
+## O que é um fenômeno viral?
 
 A Internet pode ser pensada como um grande conjunto de nós, que são representados pelas páginas, e um conjunto de arcos, que são representados pelos links que ligam uma página às outras. Os autores concluíram que os nós da Internet possuem graus de conectividade baseadas em uma [lei de potência](https://polymer.bu.edu/hes/rp-barabasi12networks.pdf)([^2]), em que a maioria dos nós tem baixa conectividade ao passo que uma minoria tem alta conectividade. Em sistemas desse tipo a distribuição de conectividade dos nós tende a seguir um princípio de “conectividade preferencial” ou *preferential attachment*: quanto maior o número de conexões de um nó, maior a probabilidade que mais nodos se conectem preferencialmente a ele.
 
