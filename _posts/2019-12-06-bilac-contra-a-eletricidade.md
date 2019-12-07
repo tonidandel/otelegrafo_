@@ -6,7 +6,7 @@ categories: [História da Eletricidade,Literatura,História da Engenharia Elétr
 coments: true
 ---
 
-A prosa do grande poeta Olavo Bilac dá o que pensar e encerra grandes verdades. Em uma de suas crônicas, de 1905, o escritor faz uma defesa apaixonada "contra" a luz elétrica, e poderíamos imaginar hoje o que ele diria ele da Internet, dos smartphones, da inteligência artificial... Faço minhas as palavras de um grande professor e amigo, sobre o pensamento de Bilac:
+A prosa do grande poeta Olavo Bilac dá o que pensar e encerra grandes verdades. Em uma de suas crônicas, de 1905, o escritor faz uma defesa apaixonada "contra" a luz elétrica, e poderíamos imaginar hoje o que ele diria da Internet, dos smartphones, da inteligência artificial... Faço minhas as palavras de um grande professor e amigo, sobre o pensamento de Bilac:
 
 >  (...) É a eletricidade, com todos os seus benefícios e agora na sua idade madura, nos afastando do assustador e rejuvenescedor contato direto com as forças da natureza, e de tudo que esta experiência nos inspira. (A. E. A. de Araújo)
 
@@ -22,7 +22,7 @@ Certo amigo meu odeia e amaldiçoa a eletricidade: abomina-a, como assassina da 
 
 Foi anteontem, sexta-feira, que ele se desmanchou, depois de um calmo jantar, em invectivas contra a luz elétrica.
 
-Sexta-feira agoniada, em que muita gente, forçada a sair à noite, teve de ressuscitar o usa d’aquelas lanternas de que se serviam os cariocas de 1820, quando, caso raro, tinham de atravessar a cidade depois do toque de recolher.
+Sexta-feira agoniada, em que muita gente, forçada a sair à noite, teve de ressuscitar o uso d’aquelas lanternas de que se serviam os cariocas de 1820, quando, caso raro, tinham de atravessar a cidade depois do toque de recolher.
 
 Jantáramos juntos, quatro amigos, num amplo terraço deslumbradoramente iluminado por festões de lâmpadas elétricas. Tendo começado a jantar ao cair da noite, não sabíamos que a cidade lá fora estava às escuras, amortalhada na treva espessa. Descemos, saímos: e doeu-nos nos olhos a escuridão, pondo-nos na alma um vago susto.
 
