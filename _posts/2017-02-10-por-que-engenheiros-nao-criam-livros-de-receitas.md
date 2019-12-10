@@ -3,7 +3,6 @@ layout: post
 title: Por que engenheiros não criam livros de receitas?
 categories:
   - Educação
-  - Ensino de Engenharia
 coments: true
 ---
 
