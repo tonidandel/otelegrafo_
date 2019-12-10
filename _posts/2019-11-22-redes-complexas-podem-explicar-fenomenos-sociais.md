@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Ciência de Redes pode explicar um "viral"?
-categories: [Ciência de Redes,sociedade]
+categories: [História da Ciência,Sociedade]
+tags: [Ciência de Redes,Sociedade]
 coments: true
 ---
 

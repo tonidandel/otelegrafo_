@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Olavo Bilac... contra a Eletricidade!
-categories: [História da Eletricidade,Literatura,História da Engenharia Elétrica]
+categories: [Literatura]
+tags: [História da Ciência,História da Engenharia Elétrica,História da Eletricidade]
 
 coments: true
 ---

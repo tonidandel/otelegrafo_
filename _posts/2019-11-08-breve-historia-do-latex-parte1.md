@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Como escrever um texto com qualidade tipográfica profissional?
-categories: [LaTeX,Diagramação,Programação]
+categories: [Programação]
+tags: [LaTeX,Diagramação,Editores de Texto,WYSWYG]
 coments: true
 ---
 
