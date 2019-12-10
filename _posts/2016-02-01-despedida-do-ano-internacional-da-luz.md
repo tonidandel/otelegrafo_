@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Despedida do ano internacional da luz
-categories: [Educação]
-tags: [História da Ciência,História da Física]
+categories: [História_e_Filosofia_da_Ciência]
+tags: [História_da_Ciência,História_da_Física,Educação]
 coments: true
 ---
 
