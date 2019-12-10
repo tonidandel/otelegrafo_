@@ -3,6 +3,7 @@ layout: page
 title: Categorias
 permalink: /categorias/
 ---
+
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>

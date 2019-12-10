@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Ciência de Redes pode explicar um "viral"?
-categories: [Data Science,Sociedade,Redes Sociais]
+categories:
+  - Ciência de Redes
 coments: true
 ---
 

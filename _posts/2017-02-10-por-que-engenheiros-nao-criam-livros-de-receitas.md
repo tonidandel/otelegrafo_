@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Por que engenheiros não criam livros de receitas?
-categories: [Educação]
+categories:
+  - Educação
+  - Ensino de Engenharia
 coments: true
 ---
 
@@ -26,7 +28,7 @@ c. Verta a mistura em um recipiente adequado e leve ao forno, mantendo uma tempe
 
 O problema básico em questão apresenta-se da seguinte forma: um livro didático (qual livro cujo objetivo não é ser didático, afinal?), sobretudo de engenharia, é um livro de receitas? Naturalmente, todos diremos enfaticamente que não. Temos visto, no entanto, constantemente sendo editados livros desta natureza: conceitos recheados de centenas de fórmulas, cobertos por métodos minuciosamente detalhados, todos “essenciais” para a formação do futuro engenheiro. Por exemplo: se o propósito é explicar ao aluno como ligar uma lâmpada em um circuito de corrente contínua, o que utilizar como abordagem?
 
-Primeiramente, seria possível explicar resumidamente (todo) o eletromagnetismo básico, conceitos de carga elétrica, corrente elétrica, resistência, leis Kirchhoff (o que, sendo otimista, levaria algumas semanas), até chegar no primeiro circuito, tudo isto mantendo a motivação em alta, certo? Ousaríamos então perguntar: após este esforço hercúleo é de se acreditar que o aluno absorveu toda a informação, à maneira da clássica espiral ascendente de conhecimento? 
+Primeiramente, seria possível explicar resumidamente (todo) o eletromagnetismo básico, conceitos de carga elétrica, corrente elétrica, resistência, leis Kirchhoff (o que, sendo otimista, levaria algumas semanas), até chegar no primeiro circuito, tudo isto mantendo a motivação em alta, certo? Ousaríamos então perguntar: após este esforço hercúleo é de se acreditar que o aluno absorveu toda a informação, à maneira da clássica espiral ascendente de conhecimento?
 
 A resposta pode ser um decepcionante não! Em muitas vezes, pode-se atingir a finalidade “transmitir receitas”, isto é, conceitos, mas isto dificilmente levará o aluno a desenvolvê-los por si, de maneira criativa. Talvez se sairá bem na disciplina, mas daí a levá-la para o dia a dia de futuro profissional, vai uma distância bem longa.  
 

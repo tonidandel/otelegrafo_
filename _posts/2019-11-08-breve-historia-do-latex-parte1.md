@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Como escrever um texto com qualidade tipográfica profissional?
-categories: [Programação,LaTeX,Diagramação]
+categories:
+  - LaTeX
 coments: true
 ---
 
@@ -45,9 +46,9 @@ conheça o potencial do LaTeX:
 * Servir aos propósitos de pesquisa acadêmica, sendo por sua natureza, um [Software Livre](https://pt.wikipedia.org/wiki/Software_livre), que não é a mesma coisa que "comida grátis";
 
 * Ser desenvolvido de forma que os arquivos de entrada (textos simples com marcações) pudessem ser compatíveis com qualquer sistema operacional futuro, o que é bem diferente de um sistema [WYSWYG](https://en.wikipedia.org/wiki/WYSIWYG), como os atuais processadores de texto: em um programa dessa natureza, duas partes do mesmo texto podem ser bem diferentes, mesmo que se use os mesmos estilos de formatação e fontes. Por exemplo: um arquivo no MS Office 95 não será lido exatamente da mesma forma no MS Office 2019. Aliás, ainda que na mesma plataforma, eles são serão totalmente incompatíveis. Neste aspecto, um arquivo em $\TeX$ é sempre processado da mesma forma, não importando em qual sistema ele esteja. Um arquivo dos anos 1970 é executado perfeitamente em um computador moderno, apresentando a mesma qualidade;
-  
+
   Como o $\TeX$ formava um conjunto relativamente simples de comandos, como pequenos blocos fundamentais, rapidamente começaram a surgir complementos seguindo a [Licença Livre](https://en.wikipedia.org/wiki/LaTeX_Project_Public_License) sobre a qual o primeiro projeto havia sido desenvolvido.  Uma das premissas básicas da licença era que o nome $\TeX$ deveria aparecer em qualquer outra distribuição futura baseada em $\TeX$, ainda que a utilização de qualquer obra baseada nele pudesse ser utilizada papra qualquer fim, mesmo que comercial. Em 1983, Leslie Lamport desenvolveu uma série de macros (que são pequenas rotinas de instruções) utilizando os comandos básicos do $\TeX$, dando início à primeira versão do $\LaTeX$, que atualmente está em sua segunda versão.
-  
+
   ### Estrutura básica de um arquivo *.tex*
 
 A estrutura básica de um arquivo em $\LaTeX$ é bem simples. Por exemplo, você digitar os comando em um arquivo de texto simples:
@@ -63,12 +64,12 @@ Após a execução em um editor qualquer de texto, que vimos ao longo da oficina
     \begin{document}
     \section{Uma seção teste}
     O \LaTeX é demais! além do mais... conforme a equação \ref{eq:01}, que está na página \pageref{eq:01}, tem-se:
-    
+
     \begin{equation}
         PV - nRT\,.
         \label{eq:01}
     \end{equation}
-    
+
     \end{document}
 
 Que deverá gerar algo como expresso na figura:
