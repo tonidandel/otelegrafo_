@@ -2,7 +2,7 @@
 layout: post
 title: Olavo Bilac... contra a Eletricidade!
 categories: [Literatura]
-tags: [História_da_Eletricidade, História_da_Ciência, Filosofia_da_Sciencia,História_da_Engenharia_Elétrica]
+tags: [História da Eletricidade, História da Ciência, Filosofia da Ciência,História da Engenharia Elétrica]
 ---
 
 A prosa do grande poeta Olavo Bilac dá o que pensar e encerra grandes verdades. Em uma de suas crônicas, de 1905, o escritor faz uma defesa apaixonada "contra" a luz elétrica, e poderíamos imaginar hoje o que ele diria da Internet, dos smartphones, da inteligência artificial... Faço minhas as palavras de um grande professor e amigo, sobre o pensamento de Bilac:
@@ -27,11 +27,11 @@ Jantáramos juntos, quatro amigos, num amplo terraço deslumbradoramente ilumina
 
 Seria a revolução?
 
-Raros lampiões estavam ainda acesos: um pequenino ponto luminoso, trêmulo e vago, piscando, de espaço a espaço, nas ruas lúgubres, cheias do espantado vozeio da multidão invisível. O céu, coberto de nuvens negras, pesava sobre a cidade. Trevas em cima, trevas em baixo; e cada rua era um túnel, onde os passos dos transeuntes soavam funereamente. 
+Raros lampiões estavam ainda acesos: um pequenino ponto luminoso, trêmulo e vago, piscando, de espaço a espaço, nas ruas lúgubres, cheias do espantado vozeio da multidão invisível. O céu, coberto de nuvens negras, pesava sobre a cidade. Trevas em cima, trevas em baixo; e cada rua era um túnel, onde os passos dos transeuntes soavam funereamente.
 
 Somente a Avenida Central, região encantada, onde impera a Fada Eletricidade, conservava o seu habitual esplendor: e a faiscação das suas altas lâmpadas, e a ornamentação fulgurante dos cinematógrafos, que a bordam de um lado e de outro, contrastam impressionadoramente como o negror do resto da cidade.
 
-Toda a multidão afluía para a grande via esplêndida. A multidão tem medo da treva... Os cafés transbordavam gente; e, à porta de cada cinematógrafo, uma longa cauda de povo se formava, assaltando a bilheteria. Toda aquela turba queria ficar fora de casa: a casa, sem gás, é um túmulo. 
+Toda a multidão afluía para a grande via esplêndida. A multidão tem medo da treva... Os cafés transbordavam gente; e, à porta de cada cinematógrafo, uma longa cauda de povo se formava, assaltando a bilheteria. Toda aquela turba queria ficar fora de casa: a casa, sem gás, é um túmulo.
 
 Nós quatro, conversando, comentávamos o caso.
 
@@ -45,9 +45,9 @@ Louvávamos a grande fada, que suspendia sobre as nossas cabeças aqueles globos
 
 Mas, levados pelo acaso do passeio, enveredávamos por uma das ruas transversais, e de novo a noite nos cobriu, nos rodeou, nos embrulhou no seu manto sinistro. E foi então que o nosso companheiro cinquentão falou, combatendo o nosso entusiasmo:
 
-― A eletricidade! Se vocês soubessem que alívio é para mim um passeio como este, por uma rua trevosa! Já estou cansado de tanta luz... Ainda sou do tempo dos lampiões de azeite. A cidade era pobre, paupérrima. E, como pobre, e honesta, não tinha luxos. 
+― A eletricidade! Se vocês soubessem que alívio é para mim um passeio como este, por uma rua trevosa! Já estou cansado de tanta luz... Ainda sou do tempo dos lampiões de azeite. A cidade era pobre, paupérrima. E, como pobre, e honesta, não tinha luxos.
 
-Todos jantavam, em casa, às quatro da tarde. Depois, um pequeno passeio, uma partida de gamão e uma discussão política nas boticas, uma ou outra novena, uma ou outra visita, e, de longe em longe, um fogo de artifício. Jesus! Atualmente, o fogo de artifício é quotidiano e perpétuo! Esta orgia de luz embebeda-me, alucina-me, cega-me! Abençoada seja esta parede, que nos vem dar um pouco de repouso aos olhos e às almas! Continuemos a passear por aqui, por estas calmas ruas que ainda os postes da Light não invadiram... Tenho a impressão de estar revivendo o tempo antigo. 
+Todos jantavam, em casa, às quatro da tarde. Depois, um pequeno passeio, uma partida de gamão e uma discussão política nas boticas, uma ou outra novena, uma ou outra visita, e, de longe em longe, um fogo de artifício. Jesus! Atualmente, o fogo de artifício é quotidiano e perpétuo! Esta orgia de luz embebeda-me, alucina-me, cega-me! Abençoada seja esta parede, que nos vem dar um pouco de repouso aos olhos e às almas! Continuemos a passear por aqui, por estas calmas ruas que ainda os postes da Light não invadiram... Tenho a impressão de estar revivendo o tempo antigo.
 
 Antigamente, todo o Rio era assim...
 
@@ -57,7 +57,7 @@ Um de nós bocejou:
 
 O cinquentão inflamou-se:
 
-― Quer você saber qual é o grande crime da eletricidade no Rio? Matou a poesia do luar! Os nossos luares, neste céu incomparável, sempre foram famosos. No inverno carioca, uma noite de lua cheia, no céu escampo, em que desfalecem e morrem todas as estrelas ofuscadas, é uma maravilha sem par, cuja contemplação dá poesia e imaginação a todas as criaturas, – até aos muares das carroças do lixo e aos cachorros vagabundos. O luar do Rio! foi por causa dele que esta cidade teve tantos poetas, no tempo em que ainda havia poetas. Agora, há... cronistas e burocratas, como este que aqui vai conosco, em que é adorador da eletricidade. Quem faz caso do luar, hoje? 
+― Quer você saber qual é o grande crime da eletricidade no Rio? Matou a poesia do luar! Os nossos luares, neste céu incomparável, sempre foram famosos. No inverno carioca, uma noite de lua cheia, no céu escampo, em que desfalecem e morrem todas as estrelas ofuscadas, é uma maravilha sem par, cuja contemplação dá poesia e imaginação a todas as criaturas, – até aos muares das carroças do lixo e aos cachorros vagabundos. O luar do Rio! foi por causa dele que esta cidade teve tantos poetas, no tempo em que ainda havia poetas. Agora, há... cronistas e burocratas, como este que aqui vai conosco, em que é adorador da eletricidade. Quem faz caso do luar, hoje?
 
 Nem o podemos ver: nem levantamos os olhos para o céu; as avenidas e as lâmpadas elétricas cativam toda a nossa atenção; vivemos a olhar o asfalto ignóbil que calcamos aos pés. E ninguém mais vê o luar, quando ele cascateia em rios de prata pelo pendor das montanhas, e mergulha gládios rutilantes na face arrufada do mar, e chora chuveiros de pérolas entre os ramos das árvores. A Eletricidade matou o luar!
 
