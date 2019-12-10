@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Literatura
+title: Categorias
 permalink: /categorias/
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: O que faz um experimento cientifico ser considerado significativo? 
-categories: [Filosofia da Ciência]
-tags: [Data Science,Filosofia da Ciência,Data Science]
+categories: [Filosofia da Ciência,Data Science]
 coments: true
 ---
 

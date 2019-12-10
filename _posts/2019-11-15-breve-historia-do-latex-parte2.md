@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Como escrever um texto com qualidade tipográfica profissional? (parte 2)
-categories: [tecnologia,LaTeX]
+categories: [Programação]
+tags: [LaTeX,Diagramação,tipografia]
 coments: true
 ---
 
