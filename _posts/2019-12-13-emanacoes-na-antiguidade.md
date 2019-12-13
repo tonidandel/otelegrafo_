@@ -4,7 +4,7 @@ title: Da natureza das Coisas (parte 1)
 categories:
   - História e Filosofia da Ciência
 ---
-_Nil pose criari nihilo_..._nada pode surgir do nada_. Esta frase poderia ter saído de um dos contos de Voltaire, entre os quais o autor costumava afirmar que o acaso nada mais era do que a causa ignorada de um efeito desconhecido, mas não: esse princípio ambíguo e hoje esquecido partiu de um grande poeta e filósofo do primeiro século, Titus Lucretius Carus (99 a.C.--55d.C.), em seu poema _De Rerum Natura_ (Sobre a Natureza das Coisas). A tentativa simbolizava o espanto ante o enigma da natureza, mas era também uma tentativa de abolir o misticismo das explicações anteriores e superficiais sobre os fenômenos da vida. E na Ciência Antiga, um dos elementos essenciais para a busca da verdade passava certamente pela ideia de fluxo, movimento e emanação.
+_Nil pose criari nihilo_..._nada pode surgir do nada_. Esta frase poderia ter saído de um dos contos de Voltaire, entre os quais o autor costumava afirmar que o acaso nada mais era do que a causa ignorada de um efeito desconhecido, mas não: esse princípio hoje esquecido partiu de um grande poeta e filósofo do primeiro século, Titus Lucretius Carus (99 a.C.--55d.C.), em seu poema _De Rerum Natura_ (Sobre a Natureza das Coisas). A tentativa simbolizava o espanto ante o enigma da natureza, mas era também uma tentativa de abolir o misticismo das explicações anteriores e superficiais sobre os fenômenos da vida. E na Ciência Antiga, um dos elementos essenciais para a busca da verdade passava certamente pela ideia de fluxo, movimento e emanação.
 
 ![](https://otelegrafo.com/images/esfera-armilar.png)
 
