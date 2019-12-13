@@ -42,7 +42,7 @@ Da casa, e o rígido frio penetra até os ossos,<br/>
 Porque se não houvesse vazios, por onde quaisquer corpos<br/>
 Pudessem atravessar, por nenhuma razão verias acontecer.(...)
 
-[^2]: Carus, T. L. De Rerum Natura - Livro I. Trad. introd. e notas de J. A. Maia Jr, H. O. D. Vieira, F. S. Almeida (tradutores do Latim para o Português). Bilingue.João Pessoa: Ideia, 2016. Disponível em: https://bit.ly/2DZLaEZ.
+[^2]: Carus, T. L. De Rerum Natura - Livro I. Trad. introd. e notas de J. A. Maia Jr, H. O. D. Vieira, F. S. Almeida (tradutores do Latim para o Português). Bilingue.João Pessoa: Ideia, 2016. Disponível em: [https://bit.ly/2DZLaEZ](https://bit.ly/2DZLaEZ).
 
 Essa ideia da percepção das coisas como movimento de algo material que se desprende de um todo seria retomada e reelaborada em diferentes ocasiões ao longo da história. Essa, assim como outras analogias, formariam as bases das teorias de propagação da luz, do calor e dos fenômenos estáticos de atração elétrica e magnética na "Revolução Científica" (séculos XVII e XVII) - como arcabouço herdado da ciência grega. Tais ideias permearam o pensamento científico de todas as épocas e, mesmo na ciência contemporânea, onde uma espécie de renascimento do atomismo clássico está em pleno vigor, sobretudo com a mecânica quântica, isso ainda acontece. Parafraseando Agostinho, se pudesse, diria que os físicos de hoje são os atomistas de ontem... ([^3]) entretanto, esse é um longo salto, impossível de ser dado em simples recorte. Que fique então como breve pensamento.
 
