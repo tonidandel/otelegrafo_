@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emanações na Antiguidade - parte 1 - Da natureza das Coisas
+title: Da natureza das Coisas (parte 1)
 categories:
   - Filosofia da Ciência
   - História da Ciência
