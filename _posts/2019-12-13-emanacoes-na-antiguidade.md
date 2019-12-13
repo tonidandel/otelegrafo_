@@ -21,10 +21,10 @@ Lucretius apresenta sua ideia de emanação afirmando que não apenas a luz, mas
 Esses elementos seriam, justamente, os _átomos_, mas não a concepção presente do átomo, que a ciência começou a desvendar há cerca de um século, mas aquela partícula indestrutível e impenetrável que foi concebida no pensamento antigo. Por essa propriedade, Lucretius acreditava que o movimento só era possível se, além do átomo, existisse também o _vazio_ ([^2]), que seria hoje algo próximo à ideia de vácuo:
 
 > (...) Nem, no entanto, tudo se mantém, por toda parte, condensado<br/>
->  por ser de natureza corpórea, pois há nas coisas um vazio.<br/>
+>  Por ser de natureza corpórea, pois há nas coisas um vazio.<br/>
 >  Pois para ti será útil ter conhecimento em muitas coisas,<br/>
->  e isso não permitirá, errante, hesitar e questionar sempre<br/>
->  da soma das coisas, e desconfiar das nossas palavras.<br/>
+>  E isso não permitirá, errante, hesitar e questionar sempre<br/>
+>  Da soma das coisas, e desconfiar das nossas palavras.<br/>
 >  Por isso o vazio é um lugar inalcançado e vago. (...)
 
  O vácuo, assim como mostrei na primeira linha desse _post_, não tinha relação alguma com "o nada", ou, em suas palavras, "(...) daí sucede que o que a natureza desfaz novamente em seus elementos, não o extingue para o nada (...)", que é assunto para outra discussão. Mas vamos a um trecho subsequente, esse traduzido sem perder a beleza da feição poética, em que Lucretius afirma a existência dos átomos por seu contraposto, "O invisível":
