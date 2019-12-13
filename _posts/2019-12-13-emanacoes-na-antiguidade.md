@@ -6,8 +6,8 @@ categories:
   - História da Ciência
   - Literatura
 ---
-_Nil pose criari nihilo_, nada pode surgir do nada. Esta frase poderia ter saído de um dos contos de Voltaire, entre os quais o autor costumava afirmar que o acaso nada mais era do que a causa ignorada de um efeito desconhecido, mas não: este princípio hoje ignorado partiu de um grande poeta e filósofo do primeiro século, Titus Lucretius Carus (99 a.C.--
-55d.C.), em seu poema _De Rerum Natura_(Sobre a Natureza das Coisas). Sua tentativa simbolizava o espanto ante o enigma das explicações superficiais, mas era também uma tentativa de abolir o misticismo das explicações anteriores e convencionais sobre os fenômenos da natureza. E na ciência antiga, um dos elementos essenciais para a busca da verdade e da natureza das coisas passava certamente pela ideia de fluxo, movimento e emanação.
+_Nil pose criari nihilo_, ou _nada pode surgir do nada_. Esta frase poderia ter saído de um dos contos de Voltaire, entre os quais o autor costumava afirmar que o acaso nada mais era do que a causa ignorada de um efeito desconhecido, mas não: este princípio hoje ignorado partiu de um grande poeta e filósofo do primeiro século, Titus Lucretius Carus (99 a.C.--
+55d.C.), em seu poema _De Rerum Natura_ (Sobre a Natureza das Coisas). Sua tentativa simbolizava o espanto ante o enigma das explicações superficiais, mas era também uma tentativa de abolir o misticismo das explicações anteriores e convencionais sobre os fenômenos da natureza. E na ciência antiga, um dos elementos essenciais para a busca da verdade e da natureza das coisas passava certamente pela ideia de fluxo, movimento e emanação.
 
 ![](https://otelegrafo.com/images/esfera-armilar.png)
 
