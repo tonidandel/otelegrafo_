@@ -3,7 +3,7 @@ layout: post
 title: Por que engenheiros não criam livros de receitas?
 categories:
   - Educação
-coments: true
+comments: true
 ---
 
 Pensando a respeito do modo se produzir livros didáticos e das metodologias de ensino usualmente aplicadas nas universidades brasileiras, especialmente nas ciências exatas e engenharias, fatalmente vem à mente a pergunta, advinda de uma anedota, expressa no algoritmo 1, que ensina como se fazer um bolo de chocolate:

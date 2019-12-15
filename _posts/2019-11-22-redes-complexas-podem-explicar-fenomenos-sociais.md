@@ -3,7 +3,7 @@ layout: post
 title: A Ciência de Redes pode explicar um "viral"?
 categories:
   - Ciência de Redes
-coments: true
+comments: true
 ---
 
 Existe um artigo fenomenal da Nature, de 1999, em que os autores (Barábási et

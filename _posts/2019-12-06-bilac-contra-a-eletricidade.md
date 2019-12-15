@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Olavo Bilac... contra a Eletricidade!
+comments: true
 categories:
   - Literatura
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Como escrever um texto com qualidade tipográfica profissional?
 categories:
   - LaTeX
-coments: true
+comments: true
 ---
 
 E se eu dissesse que existe uma maneira de escrever um texto com qualidade profissional, seja um artigo de revista, um livro ou até um folheto sem ter aquela marca peculiar dos processadores de texto como o MS word, em que uma figura indomável fica pulando de lá pra cá ou sem perder aquelas preciosas horas escolhendo fontes e estilos? E mais, sem ter que contratar um diagramador profissional e sem gastar nada com isso? Apresento o $\LaTeX$.
