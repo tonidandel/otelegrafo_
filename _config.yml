@@ -46,7 +46,7 @@ footer-links:
   comments: true
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-154668176-1
 
 # Your website URL
 # Used for Sitemap.xml and your RSS feed
