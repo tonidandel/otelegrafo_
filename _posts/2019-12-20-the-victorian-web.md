@@ -12,8 +12,6 @@ There is no more fascinating idea than the idea of a fluid: something that, if i
 
 ## The Great Atlantic Cable
 
-There is no more fascinating idea than the idea of a fluid: something that, if it can be seen, cannot be held, because it slips through our fingers. Something that, even having some measurable mass, it does not have, on the other hand, a definite form.
-
 Similarly, the idea of a fluid flow had been used in many occasions in the History of human thought as one of the main basis for the scientific knowledge construction, specially in the History of Electrical Engineering, which, in turn, was not a separate branch of Physics until the middle of the nineteenth century.
 
 In fact, until that moment, the concepts of electricity, heat and light were so profoundly entangled that the Doctrine of Interchangeability of Forces was able to gave birth to [what I consider] the greatest technological enterprise of that time: the laying of the first transatlantic cable for telegraphic communications between Europe and America, “The Great Atlantic Cable”.
