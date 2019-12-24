@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ether and the Theory of Relativity, an speech addressed by Einstein himself
-author: Albert Einstein
 categories:
   - History and Philosophy of Science
   - História e Filosofia da Ciência

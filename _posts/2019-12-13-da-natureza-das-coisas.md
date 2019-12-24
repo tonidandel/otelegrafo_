@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Da Natureza das Coisas (parte 1)
+title: Da Natureza das Coisas
 comments: true
 categories:
   - História e Filosofia da Ciência
