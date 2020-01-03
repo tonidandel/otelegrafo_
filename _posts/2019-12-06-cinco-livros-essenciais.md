@@ -22,7 +22,7 @@ Livros que não podem faltar na biblioteca de alguém interessado em História d
 
 ![A history of the theories of aether and electricity, de Sir Edmund Whittaker](https://otelegrafo.com/images/whittaker.jpg)
 
-[A history of the theories of aether and electricity](https://www.amazon.com/history-theories-aether-electricity-nineteenth-ebook/dp/B009Y9J518/ref=sr_1_2?keywords=A+history+of+the+theories+of+aether+and+electricity&qid=1577155633&s=books&sr=1-2), de Sir Edmund Whittaker é uma completa história das concepções dos homens que criaram a ciência da eletricidade e muito mais. É um livro que interessa um leitor mais avançado e que não se intimida com a física teórica e a teoria matemática que a acompanha.
+[A history of the theories of aether and electricity](https://www.amazon.com/history-theories-aether-electricity-nineteenth-ebook/dp/B009Y9J518/ref=sr_1_2?keywords=A+history+of+the+theories+of+aether+and+electricity&qid=1577155633&s=books&sr=1-2), de Sir Edmund Whittaker é uma completa história das concepções das pessoas que criaram a ciência da eletricidade e muito mais. É um livro que interessa um leitor mais avançado e que não se intimida com a física teórica e a teoria matemática que a acompanha.
 
 ![The Cable, de Gillian Cookson](https://otelegrafo.com/images/the-cable.jpg)
 
