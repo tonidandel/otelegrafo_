@@ -19,7 +19,7 @@ Embora houvesse uma pequena população que residia casas modestas, a ilha não 
 
 Bem, mesmo que suas ideias malucas estivesses incorretas, havia algo interessante ali. Talvez ela poderia descobrir quem, neste lugar, se sentia compelido a conhecer a mais atual publicação acadêmica! Ela caminhou, então, pelo longo e sinuoso caminho em meio às ervas daninhas e flores silvestres até a porta frontal, tocando a campainha.
 
-Suavemente, através da grossa porta de madeira, pôde ouvir o som dos carrilhões1 soando um tom familiar, anunciando sua chegada. Sentiu uma vontade súbita de sair correndo dali, mas sua curiosidade venceu e ficou esperando para ver de quem eram os passos que ela ouvia arrastarem-se lentamente em direção à porta; para ver que tipo de pessoa vivia ali.
+Suavemente, através da grossa porta de madeira, pôde ouvir o som dos carrilhões soando um tom familiar, anunciando sua chegada. Sentiu uma vontade súbita de sair correndo dali, mas sua curiosidade venceu e ficou esperando para ver de quem eram os passos que ela ouvia arrastarem-se lentamente em direção à porta; para ver que tipo de pessoa vivia ali.
 
 A porta se abriu para revelar um homem bem comum: franzino, de meia idade, pele negra e com os cabelos mais brancos que ela jamais tinha visto. Ao observá-la, olhando diretamente em seus olhos, ele claramente surpreendeu-se, dando um passo para trás.
 
@@ -45,7 +45,7 @@ Quando retornou alguns minutos depois, o anfitrião segurava um conjunto de chá
 
 “E,” ele acrescentou, realmente apreciando aquele diálogo, “que tal a utilização de anéis não comutativos e números imaginários na física de partículas?!?”
 
-“Sim”, concordou ela, “Quando os números imaginários foram primeiramente discutidos pelos matemáticos, eles mal eram considerados como matemática de verdade.2 Agora, os físicos  consideram regularmente as funções de onda de uma partícula quântica como entidades complexas, sem escrúpulos.”3
+“Sim”, concordou ela, “Quando os números imaginários foram primeiramente discutidos pelos matemáticos, eles mal eram considerados como matemática de verdade. Agora, os físicos  consideram regularmente as funções de onda de uma partícula quântica como entidades complexas, sem escrúpulos.”
 
 “E quando os físicos descobriram pela primeira vez a não-comutatividade em suas medidas, a supostamente inútil teoria da álgebra abstrata já estava lá, instantaneamente transformada em um ramo da matemática 'aplicada'!” E gargalhou tão alto que ela começou a ficar assustada. Ele notou sua reação e tentou se acalmar um pouco, lentamente bebericando seu chá, tentando não rir.
 
@@ -91,7 +91,7 @@ Houve mais um silêncio desconfortável.
 
 “Bem,” ela disse, incapaz de olhar em seus olhos, “você se lembra de minha tese?”
 
-“Muito bem!” Seus olhos se iluminaram de um modo que ela achou lisonjeiro. Ele realmente tinha gostado de seu trabalho. “Você notou que a cohomologia de uma certa classe de variedades diferenciáveis4 de n-dimensões têm algumas propriedades algébricas bizarras. Você chamou tais variedades de 'variedades imunológicas' por ter notado que seu comportamento lembrava um sistema imunológico. E embora você diga na introdução que não é especialista em Biologia, a ideia motivou sua nomenclatura ao longo da tese. Algumas variedades imunológicas são saudáveis, outras não. Algumas têm inclusive doenças autoimunes!”
+“Muito bem!” Seus olhos se iluminaram de um modo que ela achou lisonjeiro. Ele realmente tinha gostado de seu trabalho. “Você notou que a cohomologia de uma certa classe de variedades diferenciáveis de n-dimensões têm algumas propriedades algébricas bizarras. Você chamou tais variedades de 'variedades imunológicas' por ter notado que seu comportamento lembrava um sistema imunológico. E embora você diga na introdução que não é especialista em Biologia, a ideia motivou sua nomenclatura ao longo da tese. Algumas variedades imunológicas são saudáveis, outras não. Algumas têm inclusive doenças autoimunes!”
 
 “Apenas nomes que eu dei para me auxiliarem a descrever e entender a estrutura matemática.”
 
