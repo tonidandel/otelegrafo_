@@ -7,11 +7,11 @@ categories:
   - Matemática
 ---
 
-Como resultados abstratos, construídos sem quaisquer alicerces no “mundo real”, acabam se tornando tão úteis, mesmo em áreas completamente diversas? Em 2003, o matemático Americano Alex Kasman (2003) escreveu um belo conto de “ficção matemática” intitulado “Unreasonable Effectiveness”, uma das várias respostas existentes ao clássico artigo de Wigner (1960) “The unreasonable effectiveness of mathematics in the natural sciences”. Na versão de Kasman, uma pesquisadora acaba, acidentalmente, descobrindo a resposta para a questão de como uma nova teoria encontra, em algum momento, uma utilidade prática na ciência. Este conto é trecho de um artigo publicado por mim no Caderno Brasileiro de Ensino de Física (2016).[^1]
+Como resultados abstratos, construídos sem quaisquer alicerces no “mundo real”, acabam se tornando tão úteis, mesmo em áreas completamente diversas? Em 2003, o matemático Americano Alex Kasman (2003) escreveu um belo conto de “ficção matemática” intitulado “Unreasonable Effectiveness”, uma das várias respostas existentes ao clássico artigo de Wigner (1960) “The unreasonable effectiveness of mathematics in the natural sciences”. Nesta versão, uma pesquisadora acaba, acidentalmente, descobrindo a resposta para a questão de como uma nova teoria encontra, em algum momento, uma utilidade prática na ciência. Este conto é trecho de um artigo publicado por mim no Caderno Brasileiro de Ensino de Física (2016).[^1]
 
 [^1]: TONIDANDEL, Danny Augusto Vieira. Eficácia sem razão [da matemática]. Caderno Brasileiro de Ensino de Física, Florianópolis, v. 33, n. 2, p. 399-406, set. 2016. ISSN 2175-7941. Disponível em: <http://bit.ly/unreff>. Acesso em: 10 mar. 2020. doi:https://doi.org/10.5007/2175-7941.2016v33n2p399.
 
-## Eficácia sem razão
+## O conto
 
 Amanda Birnbaum começou a repensar. Poderia ela prosseguir com tudo aquilo? Ali estava ela, indo de um lado para o outro, sobre a areia seca de uma pequena ilha da qual ela nunca havia ouvido falar há poucas semanas.
 
