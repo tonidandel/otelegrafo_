@@ -28,7 +28,7 @@ Por acaso, ou talvez providencialmente, Florence era também um prodígio da Mat
 
 Florence chamava os gráficos de "coxcomb" e fez deles uso extensivo, especialmente ao enviar dezenas de cartas aos membros do parlamento britânico (a Câmara dos Lords e a Câmara dos Comuns) e à sociedade civil em geral, que dificilmente conseguiriam entender relatórios técnicos especializados, comuns à época. Com este trabalho, ela não apenas se tornou a primeira mulher a integrar a Royal Statistical Society, mas, o que é o mais importante, salvou incontáveis vidas.
 
-Suas medidas propostas eram simples e a mensagem era imensamente clara. Sua estatística da guerra convenceu as autoridades em geral de que abordagens menos invasivas, como lavar as mãos, melhorar as condições sanitárias e de nutrição eram mais efetivas do que poderiam representar um aporte nos suprimentos médicos, ou um aumento do número de profissionais.
+A medidas propostas eram simples e a mensagem era imensamente clara. Sua estatística da guerra convenceu as autoridades em geral de que abordagens menos invasivas, como lavar as mãos, melhorar as condições sanitárias e de nutrição eram mais efetivas do que poderiam representar um aporte nos suprimentos médicos, ou um aumento do número de profissionais.
 
 Curiosamente, estamos vivenciando um momento muito similar, com a pandemia da Covid-19, causada pelo novo coronavírus, sobretudo no Brasil. Que o exemplo de Florence Nightingale seja inspiração para as lideranças políticas do solo brasileiro, de forma que os tristes números do momento sejam razões suficientes para que se abandone o pensamento mágico que ainda impera, em favor de milhões de vidas que ainda podem ser salvas no mundo.
 
