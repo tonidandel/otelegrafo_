@@ -23,7 +23,7 @@ Mas como poderia, uma jovem senhorita, em plena era Victoriana, época em que se
 
 Por acaso, ou, quem sabe, providencialmente, Florence era também um prodígio da Matemática. Sabendo que uma imagem teria maior impacto no ato de informar e convencer os descrentes de seus métodos, a enfermeira realiza um estudo estatístico, pioneiro até aquele momento, em que busca evidenciar a importância dos cuidados básicos aos pacientes, a partir das evidências científicas. Para isto, utiliza uma representação visual, hoje chamado de infográfico, na forma de um diagrama de rosas ou diagrama polar, que é um tipo de histograma:
 
-![Diagrama das causas de mortalidade do exército leste (1854). Nele, Florence Nightingale (1854) buscou evidenciar, a partir das evidências, as principais causas da alta mortalidade entre os combatentes.](https://otelegrafo.com/images/rose-diagram.png)
+![Diagrama das causas de mortalidade do exército leste (1854). Nele, Florence Nightingale (1854) buscou evidenciar, a partir das evidências, as principais causas da alta mortalidade entre os combatentes.](https://otelegrafo.com/images/rose-diagram.eps)
 
 Florence chamava os gráficos de "coxcomb", sendo que fez deles uso extensivo, especialmente ao enviar dezenas de cartas aos membros do parlamento britânico (câmara dos Lordes e câmara dos Comuns) e à sociedade civil em geral, que dificilmente conseguiria entender os relatórios técnicos especializados da época. Com este trabalho, ela não apenas se tornou a primeira mulher a integrar a _Royal Statistical Society_, mas também salvou incontáveis vidas.
 
