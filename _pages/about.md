@@ -4,4 +4,4 @@ title: Sobre
 permalink: /about/
 ---
 
-Esta página foi concebida como um espaço para minhas ideias e reflexões.
+Esta página foi concebida como um espaço para ideias e reflexões ao longo de minha pesquisa.
