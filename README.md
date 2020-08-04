@@ -3,4 +3,6 @@
 Um blog de pesquisa sobre História e Filosofia da Ciência.
 Home Post/Categoria Busca Sobre
 
-Confira em (https://otelegrafo.com/)[otelegrafo.com]
+Confira em [otelegrafo.com](https://otelegrafo.com/)
+
+--- - . .-.. . --. .-. .- ..-. ---
