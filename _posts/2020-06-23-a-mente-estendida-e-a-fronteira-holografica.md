@@ -1,14 +1,11 @@
 ---
-
 layout: post
 title: O cérebro produz a mente? Parte 1: A analogia cérebro x computador e o pampsiquismo
 comments: true
 categories:
-
 - Ciência cognitiva
 - Filosofia da Mente
 - Filosofia da Ciência
-
 ---
 
 Pense em algo. Agora conecte-se a um aparelho de eletroencefalograma (EEG). O padrão de imagem que lá aparece implica que esta seja uma evidência de que o cérebro esteja produzindo a mente?
