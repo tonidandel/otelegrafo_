@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A analogia Cérebro x Computador
+title: A analogia cérebro x computador
 comments: true
 categories:
   - História e Filosofia da Ciência
