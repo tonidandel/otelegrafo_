@@ -1,3 +1,7 @@
-## Repositório do site O Telégrafo ...---...
+## O Telégrafo ---...---
 
-Reflexões sobre Ciência, Tecnologia e Sociedade.
+Um blog de pesquisa sobre História e Filosofia da Ciência.
+
+Confira em [otelegrafo.com](https://otelegrafo.com/)
+
+--- - . .-.. . --. .-. .- ..-. ---
