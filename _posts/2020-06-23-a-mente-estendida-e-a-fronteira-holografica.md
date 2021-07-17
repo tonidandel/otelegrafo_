@@ -1,20 +1,18 @@
 ---
 layout: post
-title: O cérebro produz a mente? Parte 1: A analogia cérebro x computador e o pampsiquismo
+title: A analogia Cérebro x Computador e o Pampsiquismo
 comments: true
 categories:
-- Ciência cognitiva
-- Filosofia da Mente
-- Filosofia da Ciência
+  - História e Filosofia da Ciência
+  - Ciência cognitiva
+  - Analogias Físicas
 ---
 
 Pense em algo. Agora conecte-se a um aparelho de eletroencefalograma (EEG). O padrão de imagem que lá aparece implica que esta seja uma evidência de que o cérebro esteja produzindo a mente?
 
- !["A mão de Deus": imagem de raios-x de um remanescente de supernova (2017). Fonte: NASA/JPL-Caltech/McGill.](https://otelegrafo.com/images/hand-of-god.svg)
-
-## Mecanicismo e pampsiquismo
-
 A cosmovisão científica é baseada em premissas que se apoiam, em sua maioria, na Física Clássica, onde natureza e matéria são quase sinônimos. A isto se correlaciona a ideia de que fenômenos complexos possam ser reduzidos às suas interações fundamentais, como partículas subatômicas, ou unidades básicas como um neurônio ou gene, que engendram mecanismos mais complexos. Tais concepções foram altamente bem sucedidas em estabelecer não apenas o atual ponto do conhecimento humano sobre a natureza, mas também os grandes avanços tecnológicos da sociedade contemporânea. A teoria moderna da evolução busca fornecer um panorama geral de como a existência e o desenvolvimento da vida poderia ser uma consequência das equações da física de partículas, o que, em última instância, poderia incluir uma explicação para o funcionamento do cérebro e das capacidades cognitivas que habilitam os seres humanos a fazerem suas descobertas.
+
+ !["A mão de Deus": imagem de raios-x de um remanescente de supernova (2017). Fonte: NASA/JPL-Caltech/McGill.](https://otelegrafo.com/images/hand-of-god.svg)
 
 Mas os cientistas de hoje podem não precisar tanto assim das partículas, pois a própria física se encontra dominada por outro modelo intelectual. Embora Claude Shannon não estivesse pensando em física quando elaborou sua Teoria Matemática da Comunicação, depois dele a Ciência cogita se não seria o _bit_ a unidade fundamental do universo, uma partícula de outro tipo, sem substância, mais elementar que a própria matéria em si.[^1],[^2]
 
