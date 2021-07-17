@@ -1,10 +1,10 @@
 ---
 layout: post
-title: O cérebro produz a mente? Parte 1: A analogia Cérebro x Computador
+title: A analogia Cérebro x Computador
 comments: true
 categories:
   - História e Filosofia da Ciência
-  - Ciência cognitiva
+  - Ciência Cognitiva
   - Analogias Físicas
 ---
 
