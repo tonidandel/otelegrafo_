@@ -9,7 +9,7 @@ categories:
 ---
 Uma paisagem bonita não é apenas uma imagem. Ela sugere ao pensamento a absorção dos padrões de ordem e beleza existentes no universo. Uma paisagem aparentemente desoladora, por outro lado, pode servir também para que o espírito possa lançar asas ao infinito. Para Isaac Newton (1642-1727), os elementos que formaram a bela imagem da suas teorias tiveram como inspiração não apenas o cartesianismo, as concepções filosóficas e geométricas de Kepler ou a nova ciência de Galileu: tiveram também a inspiração de um momento difícil, em que o jovem Newton estava em quarentena.
 
-![Prmeira edição do _Philosophiae Naturalis Principia Mathematica_, de 1686](https://otelegrafo.com/images/1665-newton-principia.png)
+![Primeira edição do _Philosophiae Naturalis Principia Mathematica_, de 1686](https://otelegrafo.com/images/1665-newton-principia.png)
 
 ## Newton em quarentena
 
