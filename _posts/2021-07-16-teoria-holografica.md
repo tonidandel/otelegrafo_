@@ -9,12 +9,12 @@ categories:
   - Gravitação Quântica
 ---
 
-E se a realidade objetiva fosse, em verdade, um quadro pintado nas fronteiras do universo, como um holograma?
+E se a realidade objetiva fosse como um holograma, um quadro pintado nas fronteiras do universo?
 
  ![O elemento Terra engendrado a partir de um cubo na obra de Kepler (Prodromus dissertationum cosmographicarum, de 1596), inspirado no Timeu de Platão.](https://otelegrafo.com/images/135px-Kepler_Hexahedron_Earth.svg)
 
 ## Teoria Holográfica
-No início dos anos 1970, Wheeler e Christodoulou (este último sendo aluno de pós-graduação e orientado por Wheeler) haviam demonstrado que a área total do horizonte de eventos de um buraco negro (o ponto de não retorno) não diminuía, o que levou Jacob Bekkenstein, outro aluno de Wheeler, a conjecturar que a entropia máxima de qualquer sistema, inclusive um buraco negro, poderia ser proporcional a área do seu horizonte de eventos, uma generalização da segunda lei da termodinâmica, que o permitiu calcular a entropia máxima de qualquer sistema.
+No início dos anos 1970, Wheeler e Christodoulou (o último aluno de pós-graduação, orientado por Wheeler) haviam demonstrado que a área total do horizonte de eventos de um buraco negro (o ponto de não retorno) não diminuía, o que levou Jacob Bekkenstein, outro aluno de Wheeler, a conjecturar que a entropia máxima de qualquer sistema, inclusive um buraco negro, poderia ser proporcional a área do seu horizonte de eventos, uma generalização da segunda lei da termodinâmica, que o permitiu calcular a entropia máxima de qualquer sistema.
 
 Na década de 1980, Gerardus't Hooft tentava solucionar o _paradoxo da informação_ de Stephen Hawcking, que surgiu após sua segunda grande descoberta, a de que os buracos negros "evaporavam-se", i.e, emitiam radiação. Mas para onde ía a entropia que entrava no horizonte de eventos de um buraco negro, sendo que ela não poderia sair dele por exigir uma velocidade supraluminal? Hooft havia sugerido que o problema poderia ser descrito a partir de uma física com dimensão inferior, o que levou e Leonard Susskind, no início dos anos noventa, a demonstrar que a quantidade máxima de entropia em uma região do espaço era proporcional à área daquela região, e não o seu volume, como seria de se esperar. A "solução conjectural"  de Susskind, proposta em 1995, compõe parte de uma teoria que tem como região limítrofe a chamada _fronteira holográfica_.[^2]
 
