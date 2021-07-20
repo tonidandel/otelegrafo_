@@ -10,14 +10,10 @@ categories:
 
 Pense em algo. Agora conecte-se a um aparelho de eletroencefalograma (EEG). O padrão de imagem que lá aparece implica que esta seja uma evidência de que o cérebro esteja produzindo a mente?
 
-
-
-
-
 ## Fisicalismo e Pampsiquismo
 A cosmovisão científica é baseada em premissas que se apoiam, em sua maioria, na Física Clássica, onde natureza e matéria são quase sinônimos. A isto se correlaciona a ideia de que fenômenos complexos possam ser reduzidos às suas interações fundamentais, como partículas subatômicas, ou unidades básicas como um neurônio ou gene, que engendram mecanismos mais complexos. Tais concepções foram altamente bem sucedidas em estabelecer não apenas o atual ponto do conhecimento humano sobre a natureza, mas também os grandes avanços tecnológicos da sociedade contemporânea. A teoria moderna da evolução busca fornecer um panorama geral de como a existência e o desenvolvimento da vida poderia ser uma consequência das equações da física de partículas, o que, em última instância, poderia incluir uma explicação para o funcionamento do cérebro e das capacidades cognitivas que habilitam os seres humanos a fazerem suas descobertas.
 
- !["A mão de Deus": imagem de raios-x de um remanescente de supernova (2017). Fonte: NASA/JPL-Caltech/McGill.](https://otelegrafo.com/images/hand-of-god.svg)
+ ![Icon made by Pixel perfect from www.flaticon.com"](https://otelegrafo.com/images/analogia-cerebro-computador.jpg)
 
 Mas os cientistas de hoje podem não precisar tanto assim das partículas, pois a própria física se encontra dominada por outro modelo intelectual. Embora Claude Shannon não estivesse pensando em física quando elaborou sua Teoria Matemática da Comunicação, depois dele a Ciência cogita se não seria o _bit_ a unidade fundamental do universo, uma partícula de outro tipo, sem substância, mais elementar que a própria matéria em si.[^1],[^2]
 
@@ -33,8 +29,6 @@ Sabemos que correlação não implica diretamente em causalidade, e a visão tra
 [^3]: Ver em https://www.tylervigen.com/spurious-correlations
 
 Sendo assim, alguns estudos buscam evidências mais fortes de que o cérebro seja realmente capaz de produzir (ou não) a mente. Afinal, o pensamento tem livre escolha ou é apenas produto da máquina eletroquímica? Um cérebro mecânico age mecanicamente?
-
-![](https://otelegrafo.com/images/hand-of-god-pb2.png)
 
 A pergunta está sujeita a infindáveis considerações e dificilmente terá uma resposta consensual. Fato é, contudo, que o elegante conceito de epifenômeno pode levar a visão tradicional a uma posição no mínimo constrangedora: se o pensamento é um subproduto emergente do processamento cerebral, e o cérebro é formado pelos átomos e todas as sub-partículas que o compõem, decorre que toda matéria poderia ser, em última instância, consciente. Em outras palavras, a visão extrapolada da consciência como um epifenômeno transporta o "cérebro clássico" diretamente à noção de pampsiquismo. O pampsiquismo tem origem na palavra grega pan (em todo lugar), e psique (alma), e é o princípio segundo o qual todo o universo poderia ter algum tipo de consciência. Isto não significa dizer que uma pedra, uma cadeira, o Sol ou os planetas poderiam ter algum tipo de consciência, mas sugere que os seus componentes fundamentais e os próprios objetos em si, por extensão, poderiam vivenciar algum aspecto de fenômeno "mental" elementar. Formas mais complexas de "mente" emergiriam, assim, em organizações mais complexas, como no cérebro dos seres humanos e animais superiores.
 
