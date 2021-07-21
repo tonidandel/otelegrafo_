@@ -3,8 +3,9 @@ layout: post
 title: Eficácia sem razão
 comments: true
 categories:
-  - História e Filosofia da Ciência
   - Matemática
+  - Literatura
+  - Ficção científica
 ---
 
 Como resultados abstratos, construídos sem quaisquer alicerces no “mundo real”, acabam se tornando tão úteis, mesmo em áreas completamente diversas? Em 2003, o matemático Americano Alex Kasman (2003) escreveu um belo conto de “ficção matemática” intitulado “Unreasonable Effectiveness”, uma das várias respostas existentes ao clássico artigo de Wigner (1960) “The unreasonable effectiveness of mathematics in the natural sciences”. Nesta versão, uma pesquisadora acaba, acidentalmente, descobrindo a resposta para a questão de como uma nova teoria encontra, em algum momento, uma utilidade prática na ciência. Este conto é trecho de um artigo publicado por mim no Caderno Brasileiro de Ensino de Física (2016).[^1]

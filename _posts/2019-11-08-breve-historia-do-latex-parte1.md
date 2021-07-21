@@ -3,6 +3,8 @@ layout: post
 title: Como escrever um texto com qualidade tipográfica profissional?
 categories:
   - LaTeX
+  - Diagramação
+  - Processadores de texto
 comments: true
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: O que faz um experimento cientifico ser considerado significativo?
 categories:
   - Ciência de Dados
-  - História e Filosofia da Ciência
 comments: true
 ---
 

@@ -3,9 +3,9 @@ layout: post
 title: A dama com a lanterna
 comments: true
 categories:
-  - História e Filosofia da Ciência
   - Ciência de Dados
   - Matemática
+  - Século XIX
 ---
 
 O que uma modesta enfermeira de exatos 200 anos atrás tem a ver com a pandemia que assusta o mundo nos dias atuais? Como podemos nos inspirar em sua história para virarmos o jogo? A data de 12 de maio, dia Internacional da Enfermagem, celebra o nascimento de uma figura luminar para a ciência, responsável por salvar milhões de vidas em um período de extrema dor e agonia.

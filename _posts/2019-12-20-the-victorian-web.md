@@ -3,8 +3,9 @@ layout: post
 title: The Victorian Web
 comments: true
 categories:
-  - História e Filosofia da Ciência
-  - History and Philosophy of Science
+  - Telegrafia
+  - Eletricidade
+  - Ciência de Redes
 ---
 There is no more fascinating idea than the idea of a fluid: something that, if it can be seen, cannot be held, because it slips through our fingers. Something that, even having some measurable mass, it does not have, on the other hand, a definite form.
 

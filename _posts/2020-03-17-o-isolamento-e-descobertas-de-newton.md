@@ -3,7 +3,6 @@ layout: post
 title: Isaac Newton em quarentena
 comments: true
 categories:
-  - História e Filosofia da Ciência
   - Matemática
   - Física
 ---

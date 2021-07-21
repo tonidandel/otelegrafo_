@@ -4,6 +4,8 @@ title: Olavo Bilac... contra a Eletricidade!
 comments: true
 categories:
   - Literatura
+  - Eletricidade
+  - Século XIX
 ---
 
 A prosa do grande poeta Olavo Bilac dá o que pensar e encerra grandes verdades. Em uma de suas crônicas, de 1905, o escritor faz uma defesa apaixonada "contra" a luz elétrica, e poderíamos imaginar hoje o que ele diria da Internet, dos smartphones, da inteligência artificial... Faço minhas as palavras de um grande professor e amigo, sobre o pensamento de Bilac:

@@ -3,10 +3,9 @@ layout: post
 title: O mundo como um holograma
 comments: true
 categories:
-  - História e Filosofia da Ciência
   - Ciência Cognitiva
   - Analogias Físicas
-  - Gravitação Quântica
+  - Física Quântica
 ---
 
 E se a realidade objetiva fosse como um holograma, um quadro pintado nas fronteiras do universo?

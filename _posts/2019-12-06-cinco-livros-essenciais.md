@@ -3,7 +3,6 @@ layout: post
 title: Cinco livros essenciais
 comments: true
 categories:
-  - História e Filosofia da Ciência
   - Literatura
   - Engenharia Elétrica
   - Física Matemática
