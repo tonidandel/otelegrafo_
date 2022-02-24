@@ -9,7 +9,11 @@ categories:
   - Filosofia
 ---
 
-Enxergar com o auxílio da luz, sentir o toque do vento e ouvir sua melodia ao contato com as folhas; calar ante o raio que corta a noite e receber, em meio ao oceano de ar, o abraço caloroso do Sol. Tais percepções têm sugerido, desde tempos remotos, a presença de uma unidade poderosa e transcendente, impessoal e não local, a vigiar os destinos humanos. Além de responsável pelo estabelecimento da realidade objetiva em si, tal unidade seria a causa primordial de misteriosa virtude, que
+Enxergar com o auxílio da luz, sentir o toque do vento e ouvir sua melodia ao contato com as folhas; calar ante o raio que corta a noite e receber, em meio ao oceano de ar, o abraço caloroso do Sol. Tais percepções têm sugerido, desde tempos remotos, a presença de uma unidade poderosa e transcendente, impessoal e não local, a vigiar os destinos humanos. 
+
+
+
+Além de responsável pelo estabelecimento da realidade objetiva em si, tal unidade seria a causa primordial de misteriosa virtude, que
 subsiste e penetra todos os seres do universo, ou tudo o que venha a existir: "... pois Nele vivemos, nos movimentamos e existimos,"[^1] conforme a passagem bíblica.
 
 <img title="" src="https://otelegrafo.com/images/kepler-mysterium-1596-imagem-ceu-copernicano.svg" alt="Legenda da figura." width="314" data-align="center">
@@ -20,11 +24,7 @@ subsiste e penetra todos os seres do universo, ou tudo o que venha a existir: ".
 Bem antes dos estudos da antiguidade clássica ocidental, é possível ler nas entrelinhas das tradições de antigas sociedades tribais, que os primeiros sistemas de representação do conhecimento produzidos pela humanidade foram de origem espiritual. Como diria o antropólogo francês Émile Durkheim
 (1858-1917), que estudou populações indígenas Australianas e Norte-americanas: "... Não há religião que não seja, ao mesmo tempo, cosmologia e especulação sobre o divino.[^2]  
 
-
-
 Nestas tradições era possível perceber a presença de curiosa cosmogonia ou mito de criação universal, no qual a representação simbólica das coisas reconhecidas como sagradas assumia a figura de um *Totem*, representado por um animal que dava nome e identidade aos clãs. O Totem, elemento considerado vivo no cotidiano daquelas comunidades, reunia todas as qualidades espirituais que inspiravam temor e reverência, segurança e equilíbrio, vida e movimento.
-
-
 
 Embora as coisas sagradas em seu caráter religioso assumissem igual importância, o princípio comum a todas elas não era encarado senão como uma virtude impessoal que se encontrava em cada um dos seres, muito além de atributo ou propriedade das
 coisas em si. A morte poderia chegar sorrateira, mas tal virtude estaria presente, viva e constante, como um grande campo, unindo toda a criação e todos os seres a uma
