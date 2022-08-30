@@ -56,8 +56,7 @@ Karen chegou a solicitar à empresa fabricante uma cópia do código-fonte, mas 
 
 [^2]: WinnerL. Do Artifacts have politics? In ______ . 1996. The Wale and the reactor – A search for limits in an Age of High Technology. Chicago: The University of Chicago Press. p. 19-39.
 
-[^3]: Bhartiya, S. Meet Karen Sandler, a force in open source. CIO from idg: tech News,
-Analysis, blogs, video (2017). Disponível em <https://www.cio.com/article/234085/meet-karen-sandler-a-force-in-open-source.html>. Acesso em 30 Ago. 2022.
+[^3]: Bhartiya, S. Meet Karen Sandler, a force in open source. CIO from idg: tech News. Analysis, blogs, video (2017). Disponível em <https://www.cio.com/article/234085/meet-karen-sandler-a-force-in-open-source.html>. Acesso em 30 Ago. 2022.
 
 [^4]: Com a licença padrão GNU GPL ou GNU General Public Licence.
 
