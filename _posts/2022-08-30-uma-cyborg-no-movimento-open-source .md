@@ -14,7 +14,7 @@ Se um computador trava e apresenta a famosa *"tela azul"*, é até possível pen
 O advento do computador e da internet, resultantes do imaginário coletivo e esforço da ciência, são criações que remodelam os próprios comportamentos humanos e as tendências da sociedade para o futuro. Entender essa dinâmica é, pela mesma razão, fundamental para se ter uma noção do real impacto causado por uma mudança científica ou tecnológica, sobretudo quando os sistemas tecnológicos começaram a se tornar parte essencial na manutenção da vida dos seres humanos. Assim, é interessante investigar quando as coisas não funcionam corretamente, isto é, o que acontece quando uma tecnologia não "funciona" como desejado? Para isto, vamos analisar o caso de uma verdadeira "ciborgue", que teve, instalado em seu peito, um dispositivo com um sistema operacional proprietário.
 
 <img title="" src="https://otelegrafo.com/images/open-source-initiative.jpg" alt="Movimento do Código-fonte aberto." data-align="center" width="200">
- *Movimento do Código-fonte Aberto (_Open Source Initiative_)*
+ *Movimento do Código-fonte Aberto (Open Source Initiative)*
 
 Desde cedo Karen Sandler se interessava por tecnologia digital e programação, chegando a conhecer a pré-histórica linguagem BASIC, além do FORTRAN e C. As linguagens de programação são responsáveis por codificarem a linguagem humana, ou uma forma extremamente reduzida da linguagem humana (a lógica), em sinais de tensão e corrente elétrica para que computadores, máquinas de uso geral, possam realizar uma tarefa específica. Expressões simples do tipo _"se A... então B"_ são codificadas e traduzidas para a chamada "linguagem de máquina", que os humanos não podem compreender.
 
