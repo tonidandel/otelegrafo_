@@ -21,7 +21,7 @@ Desde cedo Karen Sandler se interessava por tecnologia digital e programação, 
 Somado à interface que nos possibilita interagir com a máquina, um software criado a partir de determinada linguagem torna possível realizarmos atualmente coisas inimagináveis há 70 anos. Ainda na universidade, nos anos 1990 -- ao se ver diante de um laboratório repleto de computadores executando o sistema operacional GNU/Linux -- a jovem Karen Sandler chegou a pensar que software livre era uma boa ideia, mas que não iria durar muito ([^3]). Até então, não imaginava que seu futuro profissional estaria ligado biologicamente ao futuro dos sistemas operacionais e do software
 livre como um todo.
 
-## Sistema Operacional Aberto _versus_ Proprietário
+## Sistema Aberto _vs_ Sistema Proprietário
 
 Podemos imaginar um sistema operacional a partir da analogia com um automóvel: para que funcione corretamente, um carro precisa estar equipado com diversos componentes tais como carcaça, rodas, pneus, vidros, limpador de para-brisa e, claro, um motor. Uma carcaça sem motor pode até descer uma rampa, mas dificilmente um motor sozinho faria qualquer coisa. Da mesma forma é composto um sistema operacional: aplicativos e serviços, que representam toda a carcaça e peças fundamentais para o funcionamento do sistema e um _kernel_ ou núcleo, que é motor ou coração do sistema, fazendo a comunicação do software com o hardware (a parte física do  computador).
 
