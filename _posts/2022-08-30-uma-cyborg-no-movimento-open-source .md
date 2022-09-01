@@ -5,6 +5,7 @@ comments: true
 categories:
   - Software Livre
   - Sociologia da Ciência
+  - [![Hits](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source.svg?style=flat-square&label=Leituras%3A&extraCount=25&color=49ec10&labelColor=48d312)](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source/)
 ---
 
 Se um computador trava e apresenta a famosa *"tela azul"*, é até possível pensar que não seja um problema muito sério. Mas imagine, por um instante, que este sistema esteja controlando as batidas do seu coração, em um marca-passo instalado em seu peito. Imagine agora que este dispositivo esteja rodando um software proprietário.
@@ -66,6 +67,3 @@ Karen chegou a solicitar à empresa fabricante uma cópia do código-fonte, mas 
 2007.
 
 [^6]: Mumford, L. Técnicas Autoritarias y Técnicas democráticas. Ciência, Tecnologia y sustentabilidad. El Escorial, 2004.
-
-
-[![Hits](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source.svg?style=flat-square&label=Leituras%3A&extraCount=25&color=49ec10&labelColor=48d312)](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source/)
