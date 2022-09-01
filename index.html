@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<a href="https://hits.sh/otelegrafo.com/"><img alt="Hits" src="https://hits.sh/otelegrafo.com.svg?label=Visitantes&extraCount=1500&labelColor=131212"/></a>
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
@@ -14,11 +15,9 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continuar lendo</a>
     </article>
-  <a href="https://hits.sh/otelegrafo.com/"><img alt="Hits" src="https://hits.sh/{{ site.baseurl }}{{ post.url }}.svg?label=Visitantes&labelColor=131212"/></a>
-  {% endfor %}
+    {% endfor %}
 
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}
