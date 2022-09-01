@@ -5,7 +5,7 @@ comments: true
 categories:
   - Software Livre
   - Sociologia da Ciência
-  ---
+---
 
 Se um computador trava e apresenta a famosa *"tela azul"*, é até possível pensar que não seja um problema muito sério. Mas imagine, por um instante, que este sistema esteja controlando as batidas do seu coração, em um marca-passo instalado em seu peito. Imagine agora que este dispositivo esteja rodando um software proprietário.
 
