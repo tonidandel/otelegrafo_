@@ -34,7 +34,7 @@ footer-links:
   twitter:
   stackoverflow:
   youtube: channel/UCqKlUW7ebELab5cC8olp1pQ
-  googleplus: # anything in your profile username that comes after plus.google.com/
+#  googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   lattes: 7661349034478084
 
@@ -42,11 +42,11 @@ footer-links:
   timezone: America/Sao_Paulo
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-  disqus: otelegrafo
-  comments: true
+#  disqus: otelegrafo
+#  comments: true
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-154668176-1
+# google_analytics: UA-154668176-1
 
 # Your website URL
 # Used for Sitemap.xml and your RSS feed
