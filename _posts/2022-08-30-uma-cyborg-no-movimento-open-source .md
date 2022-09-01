@@ -7,7 +7,7 @@ categories:
   - Sociologia da Ciência
 ---
 
-[![Hits](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source.svg?label=Leituras%3A&extraCount=25&labelColor=44cc11&logo=debian)](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source/)
+[![Hits](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source.svg?style=flat-square&label=Leituras%3A&extraCount=25&color=49ec10&labelColor=48d312)](https://hits.sh/otelegrafo.com/uma-cyborg-no-movimento-open-source/)
 
 Se um computador trava e apresenta a famosa *"tela azul"*, é até possível pensar que não seja um problema muito sério. Mas imagine, por um instante, que este sistema esteja controlando as batidas do seu coração, em um marca-passo instalado em seu peito. Imagine agora que este dispositivo esteja rodando um software proprietário.
 
