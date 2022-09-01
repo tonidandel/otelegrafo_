@@ -7,6 +7,8 @@ categories:
   - Sociologia da Ciência
 ---
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tonidandel.visitor-badge.tonidandel.2022-08-30-uma-cyborg-no-movimento-open-source)
+
 Se um computador trava e apresenta a famosa *"tela azul"*, é até possível pensar que não seja um problema muito sério. Mas imagine, por um instante, que este sistema esteja controlando as batidas do seu coração, em um marca-passo instalado em seu peito. Imagine agora que este dispositivo esteja rodando um software proprietário.
 
 ## O problema do código-fonte
