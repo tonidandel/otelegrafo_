@@ -9,6 +9,8 @@ categories:
 
 Se um computador trava e apresenta a famosa *"tela azul"*, é até possível pensar que não seja um problema muito sério. Mas imagine, por um instante, que este sistema esteja controlando as batidas do seu coração, em um marca-passo instalado em seu peito. Imagine agora que este dispositivo esteja rodando um software proprietário.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tonidandel.visitor-badge.tonidandel.2022-08-30-uma-cyborg-no-movimento-open-source)
+
 ## O problema do código-fonte
 
 O advento do computador e da internet, resultantes do imaginário coletivo e esforço da ciência, são criações que remodelam os próprios comportamentos humanos e as tendências da sociedade para o futuro. Entender essa dinâmica é, pela mesma razão, fundamental para se ter uma noção do real impacto causado por uma mudança científica ou tecnológica, sobretudo quando os sistemas tecnológicos começaram a se tornar parte essencial na manutenção da vida dos seres humanos. Assim, é interessante investigar quando as coisas não funcionam corretamente, isto é, o que acontece quando uma tecnologia não "funciona" como desejado? Para isto, vamos analisar o caso de uma verdadeira "ciborgue", que teve, instalado em seu peito, um dispositivo com um sistema operacional proprietário.
