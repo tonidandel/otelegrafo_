@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Uma Ciborgue no Movimento Open Source
-comments: true
 categories:
   - Software Livre
   - Sociologia da Ciência
