@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eficácia sem razão
+title: Por que a Matemática funciona?
 comments: true
 categories:
   - Matemática
@@ -8,13 +8,18 @@ categories:
   - Ficção científica
 ---
 
-Como resultados abstratos, construídos sem quaisquer alicerces no “mundo real”, acabam se tornando tão úteis, mesmo em áreas completamente diversas? Em 2003, o matemático Americano Alex Kasman (2003) escreveu um belo conto de “ficção matemática” intitulado “Unreasonable Effectiveness”, uma das várias respostas existentes ao clássico artigo de Wigner (1960) “The unreasonable effectiveness of mathematics in the natural sciences”. Nesta versão, uma pesquisadora acaba, acidentalmente, descobrindo a resposta para a questão de como uma nova teoria encontra, em algum momento, uma utilidade prática na ciência. Este conto é trecho de um artigo publicado por mim no Caderno Brasileiro de Ensino de Física (2016).[^1]
+Como resultados abstratos, construídos sem quaisquer alicerces no "mundo real", acabam se tornando tão úteis, mesmo em áreas completamente diversas?
 
-[^1]: TONIDANDEL, Danny Augusto Vieira. Eficácia sem razão [da matemática]. Caderno Brasileiro de Ensino de Física, Florianópolis, v. 33, n. 2, p. 399-406, set. 2016. ISSN 2175-7941. doi: https://doi.org/10.5007/2175-7941.2016v33n2p399.
+## Ficção Matemática
+
+Em 2003, o matemático norte-americano Alex Kasman (2003) escreveu um belo conto de "ficção matemática" intitulado _"Unreasonable Effectiveness"_, uma das várias respostas existentes ao clássico artigo de Wigner (1960) ["The unreasonable effectiveness of mathematics in the natural sciences"](http://www.hep.upenn.edu/~johnda/Papers/wignerUnreasonableEffectiveness.pdf). Nesta versão, uma pesquisadora acaba, acidentalmente, descobrindo a resposta para a questão de como uma nova teoria encontra, em algum momento, uma utilidade prática na ciência. Este conto é trecho de um [artigo](https://doi.org/10.5007/2175-7941.2016v33n2p399) publicado por mim no Caderno Brasileiro de Ensino de Física, em 2016.([^1])
 
 ## O conto
 
 Amanda Birnbaum começou a repensar. Poderia ela prosseguir com tudo aquilo? Ali estava ela, indo de um lado para o outro, sobre a areia seca de uma pequena ilha da qual ela nunca havia ouvido falar há poucas semanas.
+
+![Clássico artigo de Wigner.](https://otelegrafo.com/images/wigner.png)
+*Clássico artigo de Wigner*
 
 Embora houvesse uma pequena população que residia casas modestas, a ilha não era reclamada por nenhum país. Até onde se poderia dizer, era tão insignificante que nenhum país estava realmente interessado nela. E, ali estava ela, olhando através do portão de aço forjado da única casa realmente grande daquelas paragens, sem ideia alguma de quem poderia residir lá. Sabia, no entanto, que estava no lugar certo. Cada uma das maiores editoras científicas deu a mesma descrição de como ela poderia encontrar a casa. Todas possuíam histórias sobre aquele estranho endereço que, tanto quanto alguém poderia recordar, era responsável por pagar qualquer preço para assinar os maiores periódicos científicos conhecidos.
 
@@ -105,3 +110,5 @@ Houve mais um silêncio desconfortável.
 “Sim, eu sei. E é por isso que eu o encontrei. Veja, eu encontrei o erro logo após os memoriais terem sido publicados. Não foi fácil, mas pude fazer com que toda a cópia com o erro fosse recolhida e substituída com a versão correta... toda a cópia exceto aquela que foi enviada separadamente, por correio privado, para sua casa. É por isso que eu sabia...”
 
 “Meu Deus,” disse ele agitando seu chá vigorosamente. “Meu Deus, o quão descuidado eu fui! Teremos que fazer algo a respeito, não é? Sim, algo terá que ser feito a respeito.”
+
+[^1]: TONIDANDEL, Danny Augusto Vieira. Eficácia sem razão [da matemática]. Caderno Brasileiro de Ensino de Física, Florianópolis, v. 33, n. 2, p. 399-406, set. 2016. ISSN 2175-7941. doi: https://doi.org/10.5007/2175-7941.2016v33n2p399.

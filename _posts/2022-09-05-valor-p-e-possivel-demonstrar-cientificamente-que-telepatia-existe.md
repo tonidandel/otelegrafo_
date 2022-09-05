@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valor-p: é possível demonstrar cientificamente que a telepatia existe?
+title: Valor-p: é possível demonstrar cientificamente que existe telepatia?
 categories:
   - Ciência de Dados
   - Sociologia da Ciência
