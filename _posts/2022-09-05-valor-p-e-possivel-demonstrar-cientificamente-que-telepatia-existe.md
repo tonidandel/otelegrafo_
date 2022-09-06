@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Valor-p: é possível demonstrar cientificamente que existe telepatia?
+title: É possível demonstrar cientificamente que existe telepatia?
 categories:
   - Ciência de Dados
   - Sociologia da Ciência
   - Matemática
+
 ---
 
 Como tirar (quase) qualquer conclusão a partir de um conjunto de dados? Como a Ciência de Dados determina se um experimento é significativo ou não? É possível atingir a neutralidade ou o fator humano pode interferir na conclusões de um experimento?
