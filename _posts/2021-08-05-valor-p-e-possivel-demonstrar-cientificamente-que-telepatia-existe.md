@@ -1,20 +1,20 @@
 ---
 layout: post
-title: É possível demonstrar cientificamente que existe telepatia?
+title: Valor-p: o que faz um experimento ser considerado significativo?
 categories:
   - Ciência de Dados
   - Sociologia da Ciência
   - Matemática
-
 ---
 
 Como tirar (quase) qualquer conclusão a partir de um conjunto de dados? Como a Ciência de Dados determina se um experimento é significativo ou não? É possível atingir a neutralidade ou o fator humano pode interferir na conclusões de um experimento?
 
-![](https://otelegrafo.com/images/p-value.png)
-
 ## Ciência e Estatística
 
  Antes que os conspiradores de plantão levantem uma lista de como a indústria farmacêutica é capaz de descobrir uma aplicação nova para a aspirina, ou decidir se o ovo faz bem ou mal para a saúde, posso ir adiantando que a história tem sua contraparte verdadeira, mas não será o assunto comentado neste texto. Sim, é possível usar a estatística para demonstrar (quase) qualquer coisa a partir de um conjuntos de dados, mas não vou elucidar o que pode ser feito de errado e nem analisar teorias conspiratórias. Meu objetivo, em termos gerais, é demonstrar como os cientistas usam a estatística para "provar", "refutar" ou "não refutar" uma hipótese e como muitas vezes isso não é suficiente para tornar os resultados de um experimento realmente significativos, em seu sentido mais amplo. Isto é, embora busque demonstrar quais os elementos essenciais para que um experimento científico possa ser considerado significativo, comentarei algumas possíveis limitações da interpretação estatística, mostrando que variáveis ocultas e relevantes podem estar presentes.
+
+ ![](https://otelegrafo.com/images/p-value.png)
+
 
 Thomas Kuhn -- que deu uma nova acepção à palavra "paradigma" quando escreveu "A Estrutura das Revoluções Científicas", um dos mais citados livros de toda a história da ciência -- costumava afirmar que a ciência não é apenas a busca racional por uma verdade "lógica", algo como uma marcha lenta, progressiva e, por que não dizer, tediosa até um destino certo, mas também é o produto do próprio meio onde ela é produzida. Isto é, a ciência depende também das relações sociais, ambições, modismos, pressões que os cientistas sofrem por seus pares, e até pela sociedade como um todo. Afinal de contas, a profissão de cientista -- atualmente tão combatida e questionada -- deixou de ser apenas uma atividade para aqueles que desfrutavam de tempo e recursos financeiros, como era comum aos filósofos da antiguidade até o século XVIII, quando a revolução científica elevou a condição de "pensador(a)" a um novo patamar, até que se tornasse realmente uma profissão, a partir da chamadas revoluções industriais dos séculos seguintes.
 
