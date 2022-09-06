@@ -7,7 +7,7 @@ categories:
 
 ---
 
-Poesia e ciência são duas coisas aparentemente distantes, mas nos grandes homens o impulso poético se alia ao espanto ante o enigma da natureza, força que move todo grande cientista. Foi exatamente num dos maiores físicos de todos os tempos que estes dois impulsos produziram muita ciência e alguma poesia. Poesia plena de alegria, de brincadeira, de bem-estar com a vida. James Clerk Maxwell, que nos legou suas famosas equações do eletromagnetismo, também nos legou um conjunto de quase uma centena de poesias, sobre vários temas; a maior parte tem a física e a tecnologia elétrica como assunto principal.
+Poesia e ciência são duas coisas aparentemente distantes, mas nos grandes homens o impulso poético se alia ao espanto ante o enigma da natureza, força que move todo grande cientista. Foi exatamente num dos maiores físicos de todos os tempos que estes dois impulsos produziram muita ciência e alguma poesia. Poesia plena de alegria, de brincadeira, de bem-estar com a vida. James Clerk Maxwell, que nos legou suas famosas equações do eletromagnetismo, também nos legou um conjunto de quase uma centena de poesias, sobre vários temas; a maior parte tem a física e a tecnologia elétrica como assunto principal. 
 
 ## De um Telegrafista para uma Telegrafista, no dia dos namorados
 
