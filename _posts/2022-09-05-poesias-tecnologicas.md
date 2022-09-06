@@ -13,26 +13,47 @@ Poesia e ciência são duas coisas aparentemente distantes, mas nos grandes home
 
 Em seguida pode-se ler uma dessas poesias; dois namorados telegrafistas se comunicam através da tecnologia que produziu a primeira unificação tecnológica do mundo. É uma declaração de amor à distância, mas não via Internet, e sim por via telegráfica. Muitos aspectos da ciência e da tecnologia são mencionados, principalmente as baterias que, à época, eram usadas nas estações telegráficas. Suas características são usadas pelo poeta Maxwell como metáforas do amor que o telegrafista sentia pela telegrafista.
 
-_**Valentine by a Telegraph Clerk to**_           **De um telegrafista para uma telegrafista,**               
-_**a Telegraph Clerk.**_                          **no dia dos namorados**                                    
+###  Valentine by a Telegraph Clerk to a Telegraph Clerk.
 
-The tendrils of my soul are twined         Os tentáculos de minh’alma estão                                      
-With thine, though many a mile apart,      Com os vossos enlaçados, embora muito espaçados,         
-And thine in close-coiled circuits wind    E os vossos, em circuitos fechados                       
-Around the needle of my heart.             Na agulha de meu coração enrolados.                      
+The tendrils of my soul are twined
+With thine, though many a mile apart,
+And thine in close-coiled circuits wind
+Around the needle of my heart.
 
-Constant as Daniell, strong as Grove,      Como uma Daniell, constante; como uma Grove potente,     
-Ebullient through its depths like Smee,    Como uma Smee em suas profundezas, efervescente,([^1])   
-My heart pours forth its tide of love.     Meu coração suas ondas de amor emana,                    
-And all its circuits close in thee.        E seus circuitos em vós se completam                     
-O tell me, when along the line             Ó diga-me, quando de meu coração saída                   
-From my full heart the message flows,      A mensagem na linha é conduzida,                         
-What currents are induced in thine?        Que corrente em vós é induzida?                          
-One click from thee will end my woes.      Um clique vosso e meu infortúnio é reduzido.             
+Constant as Daniell, strong as Grove,
+Ebullient through its depths like Smee,
+My heart pours forth its tide of love.
+And all its circuits close in thee.
+O tell me, when along the line
+From my full heart the message flows,
+What currents are induced in thine?
+One click from thee will end my woes.
 
-Through many an Ohm the Weber flew,        Fluiu o Weber por Ohm’s sem fim,                         
-And clicked this answer back to me,—       A resposta chegou até mim –                              
-"I am thy Farad, staunch and true,         “Com vigor, vosso Farad eu sou,                          
-Charged to a Volt with love for thee."     Com um Volt carregado por vós de amor.                   
+Through many an Ohm the Weber flew,
+And clicked this answer back to me,—
+"I am thy Farad, staunch and true,
+Charged to a Volt with love for thee."
+
+### De um telegrafista para uma telegrafista, no dia dos namorados
+
+Os tentáculos de minh’alma estão
+Com os vossos enlaçados, embora muito espaçados,
+E os vossos, em circuitos fechados
+Na agulha de meu coração enrolados.
+
+Como uma Daniell, constante; como uma Grove potente,([^1])
+Como uma Smee em suas profundezas, efervescente,
+Meu coração suas ondas de amor emana,
+E seus circuitos em vós se completam
+Ó diga-me, quando de meu coração saída
+A mensagem na linha é conduzida,
+Que corrente em vós é induzida?
+Um clique vosso e meu infortúnio é reduzido.
+
+Fluiu o Weber por Ohm’s sem fim,
+A resposta chegou até mim –
+“Com vigor, vosso Farad eu sou,
+Com um Volt carregado por vós de amor.
+
 
 [^1]:  Daniell, Grove e Smee são baterias de três fabricantes e de diferentes concepções, na época de Maxwell. Eram usadas para alimentar os circuitos telegráficos de então.
