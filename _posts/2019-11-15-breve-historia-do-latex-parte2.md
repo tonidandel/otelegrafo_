@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Como escrever um texto com qualidade tipográfica profissional? (parte 2)
+title: Uma história do $\LaTeX$ - parte 2
 categories:
 - LaTeX
-- Diagramação
-- Processadores de texto
-comments: true
+- Ciência da Computação
 ---
 
 Antes de continuarmos, falemos um pouco da instalação do ambiente de edição e das instalações nos diferentes sistemas. Como não é o foco aqui, vou me atentar somente a links com sugestões de instalação para os sistemas operacionais GNU/Linux, Windows, MacOS, e na Nuvem:
