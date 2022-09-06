@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Uma história do $\LaTeX$ - parte 2
+title: Uma breve história do $\LaTeX$ (parte 2)
 categories:
-- LaTeX
+- Software Livre
 - Ciência da Computação
 ---
 

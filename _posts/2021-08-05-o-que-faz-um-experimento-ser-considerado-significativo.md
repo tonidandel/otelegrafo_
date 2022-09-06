@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valor-p: o que faz um experimento ser considerado significativo?
+title: O que faz um experimento ser considerado significativo?
 categories:
   - Ciência de Dados
   - Sociologia da Ciência
