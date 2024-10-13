@@ -39,7 +39,7 @@ footer-links:
   lattes: 7661349034478084
 
 # downloads
-show_downloads: true
+#show_downloads: true
 
 # Timezone
   timezone: America/Sao_Paulo
