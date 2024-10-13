@@ -1,14 +1,14 @@
 ---
+layout: none
 ---
 [
   {% for post in site.posts %}
     {
-
-      "title"    : "{% if post.title != "" %}{{ post.title | escape }}{% else %}{{ post.excerpt | strip_html |  escape | strip }}{%endif%}",
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "content"  : "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}",
-      "category" : "{{ post.categories | join: ', '}}",
-      "date"     : "{{ post.date | date: "%B %e, %Y" }}"
+      "date"     : "{{ post.date }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
