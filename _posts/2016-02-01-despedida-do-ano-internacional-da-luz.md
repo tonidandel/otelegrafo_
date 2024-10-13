@@ -4,7 +4,6 @@ title: Despedida do ano internacional da luz
 categories:
   - História e Filosofia da Ciência
   - Educação
-comments: true
 ---
 
 Gostaria de agradecer à Sociedade Brasileira de Física pela menção de nosso artigo como um dos destaques da Revista Brasileira de Ensino de Física, nas duas últimas edições de 2015.
