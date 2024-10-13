@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Search
-permalink: /search/
+title: Busca
+permalink: /busca/
 ---
 
 <div id="search-container">
@@ -19,3 +19,7 @@ permalink: /search/
     json: '{{ site.baseurl }}/search.json'
     });
 </script>
+
+
+
+
