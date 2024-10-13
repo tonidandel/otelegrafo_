@@ -6,6 +6,7 @@
 
       "title"    : "{% if post.title != "" %}{{ post.title | escape }}{% else %}{{ post.excerpt | strip_html |  escape | strip }}{%endif%}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "content"  : "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}",
       "category" : "{{ post.categories | join: ', '}}",
       "date"     : "{{ post.date | date: "%B %e, %Y" }}"
     } {% unless forloop.last %},{% endunless %}
