@@ -4,15 +4,19 @@ title: Busca
 permalink: /search/
 ---
 
-<div id="search-container">
-    <input type="text" id="search-input" placeholder="Pesquise entre as postagens do site...">
-    <ul id="results-container"></ul>
-</div>
-
-<!-- <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script> -->
 
 <!-- or without installing anything -->
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Pesquise entre as postagens do site...">
+    <ul id="results-container"></ul>
+
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+</div>
+
+<!-- <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script> -->
 
 <script>
     SimpleJekyllSearch({
@@ -22,6 +26,5 @@ permalink: /search/
     json: '{{ site.baseurl }}/search.json'
     });
 </script>
-
 
 
